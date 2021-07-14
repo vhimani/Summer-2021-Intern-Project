@@ -21,4 +21,4 @@ Aggregrate and scrape data sources relating to different indicators to analyze i
 7. Health: COVID death count
 
 ## Source: 
-1. Summer 2021 Intern Project - Teams (XLS file)
+1. Summer 2021 Intern Project - Teams (Data Sources.xls)
