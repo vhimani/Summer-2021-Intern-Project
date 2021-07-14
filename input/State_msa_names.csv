@@ -1,0 +1,57 @@
+state_abbr,fips_state,state_name,state_proper
+AK,2,ALASKA,Alaska
+AL,1,ALABAMA,Alabama
+AR,5,ARKANSAS,Arkansas
+AS,60,AMERICAN SAMOA,American Samoa
+AZ,4,ARIZONA,Arizona
+CA,6,CALIFORNIA,California
+CO,8,COLORADO,Colorado
+CT,9,CONNECTICUT,Connecticut
+DC,11,DISTRICT OF COLUMBIA,District Of Columbia
+DE,10,DELAWARE,Delaware
+FL,12,FLORIDA,Florida
+GA,13,GEORGIA,Georgia
+GU,66,GUAM,Guam
+HI,15,HAWAII,Hawaii
+IA,19,IOWA,Iowa
+ID,16,IDAHO,Idaho
+IL,17,ILLINOIS,Illinois
+IN,18,INDIANA,Indiana
+KS,20,KANSAS,Kansas
+KY,21,KENTUCKY,Kentucky
+LA,22,LOUISIANA,Louisiana
+MA,25,MASSACHUSETTS,Massachusetts
+MD,24,MARYLAND,Maryland
+ME,23,MAINE,Maine
+MI,26,MICHIGAN,Michigan
+MN,27,MINNESOTA,Minnesota
+MO,29,MISSOURI,Missouri
+MS,28,MISSISSIPPI,Mississippi
+MT,30,MONTANA,Montana
+NC,37,NORTH CAROLINA,North Carolina
+ND,38,NORTH DAKOTA,North Dakota
+NE,31,NEBRASKA,Nebraska
+NH,33,NEW HAMPSHIRE,New Hampshire
+NJ,34,NEW JERSEY,New Jersey
+NM,35,NEW MEXICO,New Mexico
+NV,32,NEVADA,Nevada
+NY,36,NEW YORK,New York
+OH,39,OHIO,Ohio
+OK,40,OKLAHOMA,Oklahoma
+OR,41,OREGON,Oregon
+PA,42,PENNSYLVANIA,Pennsylvania
+PR,72,PUERTO RICO,Puerto Rico
+RI,44,RHODE ISLAND,Rhode Island
+SC,45,SOUTH CAROLINA,South Carolina
+SD,46,SOUTH DAKOTA,South Dakota
+TN,47,TENNESSEE,Tennessee
+TX,48,TEXAS,Texas
+UT,49,UTAH,Utah
+VA,51,VIRGINIA,Virginia
+VI,78,VIRGIN ISLANDS,Virgin Islands
+VT,50,VERMONT,Vermont
+WA,53,WASHINGTON,Washington
+WI,55,WISCONSIN,Wisconsin
+WV,54,WEST VIRGINIA,West Virginia
+WY,56,WYOMING,Wyoming
+US,111,UNITED STATES,United States
