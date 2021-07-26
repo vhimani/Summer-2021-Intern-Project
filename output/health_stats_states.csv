@@ -1,625 +1,989 @@
 ,year,month,state,covid_19_deaths,state_abbr,fips_state,state_name,state_proper
 0,2020,1,United States,6,US,111,UNITED STATES,United States
-1,2021,1,United States,104247,US,111,UNITED STATES,United States
-2,2020,2,United States,20,US,111,UNITED STATES,United States
-3,2021,2,United States,46876,US,111,UNITED STATES,United States
-4,2020,3,United States,7152,US,111,UNITED STATES,United States
-5,2021,3,United States,22681,US,111,UNITED STATES,United States
-6,2020,4,United States,65460,US,111,UNITED STATES,United States
-7,2021,4,United States,18291,US,111,UNITED STATES,United States
-8,2020,5,United States,38298,US,111,UNITED STATES,United States
-9,2021,5,United States,14333,US,111,UNITED STATES,United States
-10,2020,6,United States,18004,US,111,UNITED STATES,United States
-11,2021,6,United States,6810,US,111,UNITED STATES,United States
-12,2020,1,Alabama,0,AL,1,ALABAMA,Alabama
-13,2021,1,Alabama,2391,AL,1,ALABAMA,Alabama
-14,2020,2,Alabama,0,AL,1,ALABAMA,Alabama
-15,2021,2,Alabama,962,AL,1,ALABAMA,Alabama
-16,2020,3,Alabama,48,AL,1,ALABAMA,Alabama
-17,2021,3,Alabama,385,AL,1,ALABAMA,Alabama
-18,2020,4,Alabama,339,AL,1,ALABAMA,Alabama
-19,2021,4,Alabama,215,AL,1,ALABAMA,Alabama
-20,2020,5,Alabama,430,AL,1,ALABAMA,Alabama
-21,2021,5,Alabama,205,AL,1,ALABAMA,Alabama
-22,2020,6,Alabama,399,AL,1,ALABAMA,Alabama
-23,2021,6,Alabama,111,AL,1,ALABAMA,Alabama
-24,2020,1,Alaska,0,AK,2,ALASKA,Alaska
-25,2021,1,Alaska,36,AK,2,ALASKA,Alaska
-26,2020,2,Alaska,0,AK,2,ALASKA,Alaska
-27,2021,2,Alaska,18,AK,2,ALASKA,Alaska
-28,2020,3,Alaska,0,AK,2,ALASKA,Alaska
-29,2021,3,Alaska,16,AK,2,ALASKA,Alaska
-30,2020,4,Alaska,0,AK,2,ALASKA,Alaska
-31,2021,4,Alaska,15,AK,2,ALASKA,Alaska
-32,2020,5,Alaska,0,AK,2,ALASKA,Alaska
-33,2021,5,Alaska,0,AK,2,ALASKA,Alaska
-34,2020,6,Alaska,0,AK,2,ALASKA,Alaska
-35,2021,6,Alaska,0,AK,2,ALASKA,Alaska
-36,2020,1,Arizona,0,AZ,4,ARIZONA,Arizona
-37,2021,1,Arizona,4001,AZ,4,ARIZONA,Arizona
-38,2020,2,Arizona,0,AZ,4,ARIZONA,Arizona
-39,2021,2,Arizona,1622,AZ,4,ARIZONA,Arizona
-40,2020,3,Arizona,64,AZ,4,ARIZONA,Arizona
-41,2021,3,Arizona,511,AZ,4,ARIZONA,Arizona
-42,2020,4,Arizona,405,AZ,4,ARIZONA,Arizona
-43,2021,4,Arizona,233,AZ,4,ARIZONA,Arizona
-44,2020,5,Arizona,507,AZ,4,ARIZONA,Arizona
-45,2021,5,Arizona,233,AZ,4,ARIZONA,Arizona
-46,2020,6,Arizona,899,AZ,4,ARIZONA,Arizona
-47,2021,6,Arizona,155,AZ,4,ARIZONA,Arizona
-48,2020,1,Arkansas,0,AR,5,ARKANSAS,Arkansas
-49,2021,1,Arkansas,1172,AR,5,ARKANSAS,Arkansas
-50,2020,2,Arkansas,0,AR,5,ARKANSAS,Arkansas
-51,2021,2,Arkansas,469,AR,5,ARKANSAS,Arkansas
-52,2020,3,Arkansas,10,AR,5,ARKANSAS,Arkansas
-53,2021,3,Arkansas,197,AR,5,ARKANSAS,Arkansas
-54,2020,4,Arkansas,61,AR,5,ARKANSAS,Arkansas
-55,2021,4,Arkansas,78,AR,5,ARKANSAS,Arkansas
-56,2020,5,Arkansas,78,AR,5,ARKANSAS,Arkansas
-57,2021,5,Arkansas,92,AR,5,ARKANSAS,Arkansas
-58,2020,6,Arkansas,169,AR,5,ARKANSAS,Arkansas
-59,2021,6,Arkansas,106,AR,5,ARKANSAS,Arkansas
-60,2020,1,California,0,CA,6,CALIFORNIA,California
-61,2021,1,California,19954,CA,6,CALIFORNIA,California
-62,2020,2,California,0,CA,6,CALIFORNIA,California
-63,2021,2,California,7664,CA,6,CALIFORNIA,California
-64,2020,3,California,278,CA,6,CALIFORNIA,California
-65,2021,3,California,2305,CA,6,CALIFORNIA,California
-66,2020,4,California,2017,CA,6,CALIFORNIA,California
-67,2021,4,California,970,CA,6,CALIFORNIA,California
-68,2020,5,California,2236,CA,6,CALIFORNIA,California
-69,2021,5,California,672,CA,6,CALIFORNIA,California
-70,2020,6,California,2057,CA,6,CALIFORNIA,California
-71,2021,6,California,385,CA,6,CALIFORNIA,California
-72,2020,1,Colorado,0,CO,8,COLORADO,Colorado
-73,2021,1,Colorado,755,CO,8,COLORADO,Colorado
-74,2020,2,Colorado,0,CO,8,COLORADO,Colorado
-75,2021,2,Colorado,340,CO,8,COLORADO,Colorado
-76,2020,3,Colorado,105,CO,8,COLORADO,Colorado
-77,2021,3,Colorado,214,CO,8,COLORADO,Colorado
-78,2020,4,Colorado,880,CO,8,COLORADO,Colorado
-79,2021,4,Colorado,203,CO,8,COLORADO,Colorado
-80,2020,5,Colorado,465,CO,8,COLORADO,Colorado
-81,2021,5,Colorado,314,CO,8,COLORADO,Colorado
-82,2020,6,Colorado,184,CO,8,COLORADO,Colorado
-83,2021,6,Colorado,188,CO,8,COLORADO,Colorado
-84,2020,1,Connecticut,0,CT,9,CONNECTICUT,Connecticut
-85,2021,1,Connecticut,1019,CT,9,CONNECTICUT,Connecticut
-86,2020,2,Connecticut,0,CT,9,CONNECTICUT,Connecticut
-87,2021,2,Connecticut,474,CT,9,CONNECTICUT,Connecticut
-88,2020,3,Connecticut,126,CT,9,CONNECTICUT,Connecticut
-89,2021,3,Connecticut,240,CT,9,CONNECTICUT,Connecticut
-90,2020,4,Connecticut,2457,CT,9,CONNECTICUT,Connecticut
-91,2021,4,Connecticut,186,CT,9,CONNECTICUT,Connecticut
-92,2020,5,Connecticut,1532,CT,9,CONNECTICUT,Connecticut
-93,2021,5,Connecticut,112,CT,9,CONNECTICUT,Connecticut
-94,2020,6,Connecticut,285,CT,9,CONNECTICUT,Connecticut
-95,2021,6,Connecticut,18,CT,9,CONNECTICUT,Connecticut
-96,2020,1,Delaware,0,DE,10,DELAWARE,Delaware
-97,2021,1,Delaware,324,DE,10,DELAWARE,Delaware
-98,2020,2,Delaware,0,DE,10,DELAWARE,Delaware
-99,2021,2,Delaware,146,DE,10,DELAWARE,Delaware
-100,2020,3,Delaware,0,DE,10,DELAWARE,Delaware
-101,2021,3,Delaware,59,DE,10,DELAWARE,Delaware
-102,2020,4,Delaware,190,DE,10,DELAWARE,Delaware
-103,2021,4,Delaware,64,DE,10,DELAWARE,Delaware
-104,2020,5,Delaware,276,DE,10,DELAWARE,Delaware
-105,2021,5,Delaware,29,DE,10,DELAWARE,Delaware
-106,2020,6,Delaware,73,DE,10,DELAWARE,Delaware
-107,2021,6,Delaware,10,DE,10,DELAWARE,Delaware
-108,2020,1,Florida,0,FL,12,FLORIDA,Florida
-109,2021,1,Florida,4999,FL,12,FLORIDA,Florida
-110,2020,2,Florida,0,FL,12,FLORIDA,Florida
-111,2021,2,Florida,3178,FL,12,FLORIDA,Florida
-112,2020,3,Florida,191,FL,12,FLORIDA,Florida
-113,2021,3,Florida,1820,FL,12,FLORIDA,Florida
-114,2020,4,Florida,1311,FL,12,FLORIDA,Florida
-115,2021,4,Florida,1488,FL,12,FLORIDA,Florida
-116,2020,5,Florida,1131,FL,12,FLORIDA,Florida
-117,2021,5,Florida,1303,FL,12,FLORIDA,Florida
-118,2020,6,Florida,1083,FL,12,FLORIDA,Florida
-119,2021,6,Florida,776,FL,12,FLORIDA,Florida
-120,2020,1,Georgia,0,GA,13,GEORGIA,Georgia
-121,2021,1,Georgia,3934,GA,13,GEORGIA,Georgia
-122,2020,2,Georgia,0,GA,13,GEORGIA,Georgia
-123,2021,2,Georgia,1853,GA,13,GEORGIA,Georgia
-124,2020,3,Georgia,221,GA,13,GEORGIA,Georgia
-125,2021,3,Georgia,757,GA,13,GEORGIA,Georgia
-126,2020,4,Georgia,1083,GA,13,GEORGIA,Georgia
-127,2021,4,Georgia,525,GA,13,GEORGIA,Georgia
-128,2020,5,Georgia,805,GA,13,GEORGIA,Georgia
-129,2021,5,Georgia,362,GA,13,GEORGIA,Georgia
-130,2020,6,Georgia,517,GA,13,GEORGIA,Georgia
-131,2021,6,Georgia,171,GA,13,GEORGIA,Georgia
-132,2020,1,Hawaii,0,HI,15,HAWAII,Hawaii
-133,2021,1,Hawaii,47,HI,15,HAWAII,Hawaii
-134,2020,2,Hawaii,0,HI,15,HAWAII,Hawaii
-135,2021,2,Hawaii,27,HI,15,HAWAII,Hawaii
-136,2020,3,Hawaii,0,HI,15,HAWAII,Hawaii
-137,2021,3,Hawaii,18,HI,15,HAWAII,Hawaii
-138,2020,4,Hawaii,16,HI,15,HAWAII,Hawaii
-139,2021,4,Hawaii,14,HI,15,HAWAII,Hawaii
-140,2020,5,Hawaii,0,HI,15,HAWAII,Hawaii
-141,2021,5,Hawaii,19,HI,15,HAWAII,Hawaii
-142,2020,6,Hawaii,0,HI,15,HAWAII,Hawaii
-143,2021,6,Hawaii,10,HI,15,HAWAII,Hawaii
-144,2020,1,Idaho,0,ID,16,IDAHO,Idaho
-145,2021,1,Idaho,262,ID,16,IDAHO,Idaho
-146,2020,2,Idaho,0,ID,16,IDAHO,Idaho
-147,2021,2,Idaho,110,ID,16,IDAHO,Idaho
-148,2020,3,Idaho,10,ID,16,IDAHO,Idaho
-149,2021,3,Idaho,77,ID,16,IDAHO,Idaho
-150,2020,4,Idaho,55,ID,16,IDAHO,Idaho
-151,2021,4,Idaho,83,ID,16,IDAHO,Idaho
-152,2020,5,Idaho,22,ID,16,IDAHO,Idaho
-153,2021,5,Idaho,68,ID,16,IDAHO,Idaho
-154,2020,6,Idaho,11,ID,16,IDAHO,Idaho
-155,2021,6,Idaho,49,ID,16,IDAHO,Idaho
-156,2020,1,Illinois,0,IL,17,ILLINOIS,Illinois
-157,2021,1,Illinois,2397,IL,17,ILLINOIS,Illinois
-158,2020,2,Illinois,0,IL,17,ILLINOIS,Illinois
-159,2021,2,Illinois,1065,IL,17,ILLINOIS,Illinois
-160,2020,3,Illinois,193,IL,17,ILLINOIS,Illinois
-161,2021,3,Illinois,546,IL,17,ILLINOIS,Illinois
-162,2020,4,Illinois,2449,IL,17,ILLINOIS,Illinois
-163,2021,4,Illinois,723,IL,17,ILLINOIS,Illinois
-164,2020,5,Illinois,2822,IL,17,ILLINOIS,Illinois
-165,2021,5,Illinois,754,IL,17,ILLINOIS,Illinois
-166,2020,6,Illinois,1162,IL,17,ILLINOIS,Illinois
-167,2021,6,Illinois,319,IL,17,ILLINOIS,Illinois
-168,2020,1,Indiana,0,IN,18,INDIANA,Indiana
-169,2021,1,Indiana,2046,IN,18,INDIANA,Indiana
-170,2020,2,Indiana,0,IN,18,INDIANA,Indiana
-171,2021,2,Indiana,744,IN,18,INDIANA,Indiana
-172,2020,3,Indiana,126,IN,18,INDIANA,Indiana
-173,2021,3,Indiana,321,IN,18,INDIANA,Indiana
-174,2020,4,Indiana,1143,IN,18,INDIANA,Indiana
-175,2021,4,Indiana,289,IN,18,INDIANA,Indiana
-176,2020,5,Indiana,960,IN,18,INDIANA,Indiana
-177,2021,5,Indiana,349,IN,18,INDIANA,Indiana
-178,2020,6,Indiana,471,IN,18,INDIANA,Indiana
-179,2021,6,Indiana,179,IN,18,INDIANA,Indiana
-180,2020,1,Iowa,0,IA,19,IOWA,Iowa
-181,2021,1,Iowa,706,IA,19,IOWA,Iowa
-182,2020,2,Iowa,0,IA,19,IOWA,Iowa
-183,2021,2,Iowa,272,IA,19,IOWA,Iowa
-184,2020,3,Iowa,10,IA,19,IOWA,Iowa
-185,2021,3,Iowa,156,IA,19,IOWA,Iowa
-186,2020,4,Iowa,171,IA,19,IOWA,Iowa
-187,2021,4,Iowa,114,IA,19,IOWA,Iowa
-188,2020,5,Iowa,416,IA,19,IOWA,Iowa
-189,2021,5,Iowa,99,IA,19,IOWA,Iowa
-190,2020,6,Iowa,159,IA,19,IOWA,Iowa
-191,2021,6,Iowa,44,IA,19,IOWA,Iowa
-192,2020,1,Kansas,0,KS,20,KANSAS,Kansas
-193,2021,1,Kansas,914,KS,20,KANSAS,Kansas
-194,2020,2,Kansas,0,KS,20,KANSAS,Kansas
-195,2021,2,Kansas,281,KS,20,KANSAS,Kansas
-196,2020,3,Kansas,14,KS,20,KANSAS,Kansas
-197,2021,3,Kansas,126,KS,20,KANSAS,Kansas
-198,2020,4,Kansas,127,KS,20,KANSAS,Kansas
-199,2021,4,Kansas,78,KS,20,KANSAS,Kansas
-200,2020,5,Kansas,101,KS,20,KANSAS,Kansas
-201,2021,5,Kansas,81,KS,20,KANSAS,Kansas
-202,2020,6,Kansas,66,KS,20,KANSAS,Kansas
-203,2021,6,Kansas,52,KS,20,KANSAS,Kansas
-204,2020,1,Kentucky,0,KY,21,KENTUCKY,Kentucky
-205,2021,1,Kentucky,1365,KY,21,KENTUCKY,Kentucky
-206,2020,2,Kentucky,0,KY,21,KENTUCKY,Kentucky
-207,2021,2,Kentucky,743,KY,21,KENTUCKY,Kentucky
-208,2020,3,Kentucky,28,KY,21,KENTUCKY,Kentucky
-209,2021,3,Kentucky,383,KY,21,KENTUCKY,Kentucky
-210,2020,4,Kentucky,246,KY,21,KENTUCKY,Kentucky
-211,2021,4,Kentucky,228,KY,21,KENTUCKY,Kentucky
-212,2020,5,Kentucky,225,KY,21,KENTUCKY,Kentucky
-213,2021,5,Kentucky,222,KY,21,KENTUCKY,Kentucky
-214,2020,6,Kentucky,155,KY,21,KENTUCKY,Kentucky
-215,2021,6,Kentucky,113,KY,21,KENTUCKY,Kentucky
-216,2020,1,Louisiana,0,LA,22,LOUISIANA,Louisiana
-217,2021,1,Louisiana,1326,LA,22,LOUISIANA,Louisiana
-218,2020,2,Louisiana,0,LA,22,LOUISIANA,Louisiana
-219,2021,2,Louisiana,614,LA,22,LOUISIANA,Louisiana
-220,2020,3,Louisiana,397,LA,22,LOUISIANA,Louisiana
-221,2021,3,Louisiana,328,LA,22,LOUISIANA,Louisiana
-222,2020,4,Louisiana,1629,LA,22,LOUISIANA,Louisiana
-223,2021,4,Louisiana,175,LA,22,LOUISIANA,Louisiana
-224,2020,5,Louisiana,742,LA,22,LOUISIANA,Louisiana
-225,2021,5,Louisiana,162,LA,22,LOUISIANA,Louisiana
-226,2020,6,Louisiana,361,LA,22,LOUISIANA,Louisiana
-227,2021,6,Louisiana,85,LA,22,LOUISIANA,Louisiana
-228,2020,1,Maine,0,ME,23,MAINE,Maine
-229,2021,1,Maine,245,ME,23,MAINE,Maine
-230,2020,2,Maine,0,ME,23,MAINE,Maine
-231,2021,2,Maine,93,ME,23,MAINE,Maine
-232,2020,3,Maine,0,ME,23,MAINE,Maine
-233,2021,3,Maine,39,ME,23,MAINE,Maine
-234,2020,4,Maine,51,ME,23,MAINE,Maine
-235,2021,4,Maine,56,ME,23,MAINE,Maine
-236,2020,5,Maine,43,ME,23,MAINE,Maine
-237,2021,5,Maine,59,ME,23,MAINE,Maine
-238,2020,6,Maine,14,ME,23,MAINE,Maine
-239,2021,6,Maine,31,ME,23,MAINE,Maine
-240,2020,1,Maryland,0,MD,24,MARYLAND,Maryland
-241,2021,1,Maryland,1418,MD,24,MARYLAND,Maryland
-242,2020,2,Maryland,0,MD,24,MARYLAND,Maryland
-243,2021,2,Maryland,835,MD,24,MARYLAND,Maryland
-244,2020,3,Maryland,48,MD,24,MARYLAND,Maryland
-245,2021,3,Maryland,486,MD,24,MARYLAND,Maryland
-246,2020,4,Maryland,1280,MD,24,MARYLAND,Maryland
-247,2021,4,Maryland,530,MD,24,MARYLAND,Maryland
-248,2020,5,Maryland,1542,MD,24,MARYLAND,Maryland
-249,2021,5,Maryland,329,MD,24,MARYLAND,Maryland
-250,2020,6,Maryland,675,MD,24,MARYLAND,Maryland
-251,2021,6,Maryland,110,MD,24,MARYLAND,Maryland
-252,2020,1,Massachusetts,0,MA,25,MASSACHUSETTS,Massachusetts
-253,2021,1,Massachusetts,1708,MA,25,MASSACHUSETTS,Massachusetts
-254,2020,2,Massachusetts,0,MA,25,MASSACHUSETTS,Massachusetts
-255,2021,2,Massachusetts,804,MA,25,MASSACHUSETTS,Massachusetts
-256,2020,3,Massachusetts,126,MA,25,MASSACHUSETTS,Massachusetts
-257,2021,3,Massachusetts,405,MA,25,MASSACHUSETTS,Massachusetts
-258,2020,4,Massachusetts,3933,MA,25,MASSACHUSETTS,Massachusetts
-259,2021,4,Massachusetts,262,MA,25,MASSACHUSETTS,Massachusetts
-260,2020,5,Massachusetts,3042,MA,25,MASSACHUSETTS,Massachusetts
-261,2021,5,Massachusetts,193,MA,25,MASSACHUSETTS,Massachusetts
-262,2020,6,Massachusetts,636,MA,25,MASSACHUSETTS,Massachusetts
-263,2021,6,Massachusetts,80,MA,25,MASSACHUSETTS,Massachusetts
-264,2020,1,Michigan,0,MI,26,MICHIGAN,Michigan
-265,2021,1,Michigan,1727,MI,26,MICHIGAN,Michigan
-266,2020,2,Michigan,0,MI,26,MICHIGAN,Michigan
-267,2021,2,Michigan,675,MI,26,MICHIGAN,Michigan
-268,2020,3,Michigan,500,MI,26,MICHIGAN,Michigan
-269,2021,3,Michigan,574,MI,26,MICHIGAN,Michigan
-270,2020,4,Michigan,3629,MI,26,MICHIGAN,Michigan
-271,2021,4,Michigan,1711,MI,26,MICHIGAN,Michigan
-272,2020,5,Michigan,1295,MI,26,MICHIGAN,Michigan
-273,2021,5,Michigan,1289,MI,26,MICHIGAN,Michigan
-274,2020,6,Michigan,299,MI,26,MICHIGAN,Michigan
-275,2021,6,Michigan,328,MI,26,MICHIGAN,Michigan
-276,2020,1,Minnesota,0,MN,27,MINNESOTA,Minnesota
-277,2021,1,Minnesota,807,MN,27,MINNESOTA,Minnesota
-278,2020,2,Minnesota,0,MN,27,MINNESOTA,Minnesota
-279,2021,2,Minnesota,300,MN,27,MINNESOTA,Minnesota
-280,2020,3,Minnesota,21,MN,27,MINNESOTA,Minnesota
-281,2021,3,Minnesota,206,MN,27,MINNESOTA,Minnesota
-282,2020,4,Minnesota,396,MN,27,MINNESOTA,Minnesota
-283,2021,4,Minnesota,281,MN,27,MINNESOTA,Minnesota
-284,2020,5,Minnesota,705,MN,27,MINNESOTA,Minnesota
-285,2021,5,Minnesota,231,MN,27,MINNESOTA,Minnesota
-286,2020,6,Minnesota,370,MN,27,MINNESOTA,Minnesota
-287,2021,6,Minnesota,105,MN,27,MINNESOTA,Minnesota
-288,2020,1,Mississippi,0,MS,28,MISSISSIPPI,Mississippi
-289,2021,1,Mississippi,1321,MS,28,MISSISSIPPI,Mississippi
-290,2020,2,Mississippi,0,MS,28,MISSISSIPPI,Mississippi
-291,2021,2,Mississippi,576,MS,28,MISSISSIPPI,Mississippi
-292,2020,3,Mississippi,33,MS,28,MISSISSIPPI,Mississippi
-293,2021,3,Mississippi,272,MS,28,MISSISSIPPI,Mississippi
-294,2020,4,Mississippi,301,MS,28,MISSISSIPPI,Mississippi
-295,2021,4,Mississippi,165,MS,28,MISSISSIPPI,Mississippi
-296,2020,5,Mississippi,457,MS,28,MISSISSIPPI,Mississippi
-297,2021,5,Mississippi,158,MS,28,MISSISSIPPI,Mississippi
-298,2020,6,Mississippi,321,MS,28,MISSISSIPPI,Mississippi
-299,2021,6,Mississippi,90,MS,28,MISSISSIPPI,Mississippi
-300,2020,1,Missouri,0,MO,29,MISSOURI,Missouri
-301,2021,1,Missouri,1706,MO,29,MISSOURI,Missouri
-302,2020,2,Missouri,0,MO,29,MISSOURI,Missouri
-303,2021,2,Missouri,614,MO,29,MISSOURI,Missouri
-304,2020,3,Missouri,32,MO,29,MISSOURI,Missouri
-305,2021,3,Missouri,314,MO,29,MISSOURI,Missouri
-306,2020,4,Missouri,460,MO,29,MISSOURI,Missouri
-307,2021,4,Missouri,210,MO,29,MISSOURI,Missouri
-308,2020,5,Missouri,405,MO,29,MISSOURI,Missouri
-309,2021,5,Missouri,197,MO,29,MISSOURI,Missouri
-310,2020,6,Missouri,196,MO,29,MISSOURI,Missouri
-311,2021,6,Missouri,235,MO,29,MISSOURI,Missouri
-312,2020,1,Montana,0,MT,30,MONTANA,Montana
-313,2021,1,Montana,178,MT,30,MONTANA,Montana
-314,2020,2,Montana,0,MT,30,MONTANA,Montana
-315,2021,2,Montana,74,MT,30,MONTANA,Montana
-316,2020,3,Montana,0,MT,30,MONTANA,Montana
-317,2021,3,Montana,58,MT,30,MONTANA,Montana
-318,2020,4,Montana,11,MT,30,MONTANA,Montana
-319,2021,4,Montana,30,MT,30,MONTANA,Montana
-320,2020,5,Montana,0,MT,30,MONTANA,Montana
-321,2021,5,Montana,30,MT,30,MONTANA,Montana
-322,2020,6,Montana,0,MT,30,MONTANA,Montana
-323,2021,6,Montana,34,MT,30,MONTANA,Montana
-324,2020,1,Nebraska,0,NE,31,NEBRASKA,Nebraska
-325,2021,1,Nebraska,345,NE,31,NEBRASKA,Nebraska
-326,2020,2,Nebraska,0,NE,31,NEBRASKA,Nebraska
-327,2021,2,Nebraska,120,NE,31,NEBRASKA,Nebraska
-328,2020,3,Nebraska,0,NE,31,NEBRASKA,Nebraska
-329,2021,3,Nebraska,76,NE,31,NEBRASKA,Nebraska
-330,2020,4,Nebraska,76,NE,31,NEBRASKA,Nebraska
-331,2021,4,Nebraska,65,NE,31,NEBRASKA,Nebraska
-332,2020,5,Nebraska,111,NE,31,NEBRASKA,Nebraska
-333,2021,5,Nebraska,64,NE,31,NEBRASKA,Nebraska
-334,2020,6,Nebraska,92,NE,31,NEBRASKA,Nebraska
-335,2021,6,Nebraska,23,NE,31,NEBRASKA,Nebraska
-336,2020,1,Nevada,0,NV,32,NEVADA,Nevada
-337,2021,1,Nevada,1175,NV,32,NEVADA,Nevada
-338,2020,2,Nevada,0,NV,32,NEVADA,Nevada
-339,2021,2,Nevada,555,NV,32,NEVADA,Nevada
-340,2020,3,Nevada,35,NV,32,NEVADA,Nevada
-341,2021,3,Nevada,218,NV,32,NEVADA,Nevada
-342,2020,4,Nevada,228,NV,32,NEVADA,Nevada
-343,2021,4,Nevada,155,NV,32,NEVADA,Nevada
-344,2020,5,Nevada,162,NV,32,NEVADA,Nevada
-345,2021,5,Nevada,113,NV,32,NEVADA,Nevada
-346,2020,6,Nevada,91,NV,32,NEVADA,Nevada
-347,2021,6,Nevada,107,NV,32,NEVADA,Nevada
-348,2020,1,New Hampshire,0,NH,33,NEW HAMPSHIRE,New Hampshire
-349,2021,1,New Hampshire,312,NH,33,NEW HAMPSHIRE,New Hampshire
-350,2020,2,New Hampshire,0,NH,33,NEW HAMPSHIRE,New Hampshire
-351,2021,2,New Hampshire,88,NH,33,NEW HAMPSHIRE,New Hampshire
-352,2020,3,New Hampshire,10,NH,33,NEW HAMPSHIRE,New Hampshire
-353,2021,3,New Hampshire,49,NH,33,NEW HAMPSHIRE,New Hampshire
-354,2020,4,New Hampshire,83,NH,33,NEW HAMPSHIRE,New Hampshire
-355,2021,4,New Hampshire,36,NH,33,NEW HAMPSHIRE,New Hampshire
-356,2020,5,New Hampshire,190,NH,33,NEW HAMPSHIRE,New Hampshire
-357,2021,5,New Hampshire,33,NH,33,NEW HAMPSHIRE,New Hampshire
-358,2020,6,New Hampshire,100,NH,33,NEW HAMPSHIRE,New Hampshire
-359,2021,6,New Hampshire,17,NH,33,NEW HAMPSHIRE,New Hampshire
-360,2020,1,New Jersey,0,NJ,34,NEW JERSEY,New Jersey
-361,2021,1,New Jersey,2447,NJ,34,NEW JERSEY,New Jersey
-362,2020,2,New Jersey,0,NJ,34,NEW JERSEY,New Jersey
-363,2021,2,New Jersey,1430,NJ,34,NEW JERSEY,New Jersey
-364,2020,3,New Jersey,696,NJ,34,NEW JERSEY,New Jersey
-365,2021,3,New Jersey,1021,NJ,34,NEW JERSEY,New Jersey
-366,2020,4,New Jersey,8994,NJ,34,NEW JERSEY,New Jersey
-367,2021,4,New Jersey,1016,NJ,34,NEW JERSEY,New Jersey
-368,2020,5,New Jersey,3357,NJ,34,NEW JERSEY,New Jersey
-369,2021,5,New Jersey,508,NJ,34,NEW JERSEY,New Jersey
-370,2020,6,New Jersey,839,NJ,34,NEW JERSEY,New Jersey
-371,2021,6,New Jersey,141,NJ,34,NEW JERSEY,New Jersey
-372,2020,1,New Mexico,0,NM,35,NEW MEXICO,New Mexico
-373,2021,1,New Mexico,696,NM,35,NEW MEXICO,New Mexico
-374,2020,2,New Mexico,0,NM,35,NEW MEXICO,New Mexico
-375,2021,2,New Mexico,294,NM,35,NEW MEXICO,New Mexico
-376,2020,3,New Mexico,0,NM,35,NEW MEXICO,New Mexico
-377,2021,3,New Mexico,145,NM,35,NEW MEXICO,New Mexico
-378,2020,4,New Mexico,164,NM,35,NEW MEXICO,New Mexico
-379,2021,4,New Mexico,70,NM,35,NEW MEXICO,New Mexico
-380,2020,5,New Mexico,264,NM,35,NEW MEXICO,New Mexico
-381,2021,5,New Mexico,69,NM,35,NEW MEXICO,New Mexico
-382,2020,6,New Mexico,131,NM,35,NEW MEXICO,New Mexico
-383,2021,6,New Mexico,48,NM,35,NEW MEXICO,New Mexico
-384,2020,1,New York,0,NY,36,NEW YORK,New York
-385,2021,1,New York,4334,NY,36,NEW YORK,New York
-386,2020,2,New York,0,NY,36,NEW YORK,New York
-387,2021,2,New York,2206,NY,36,NEW YORK,New York
-388,2020,3,New York,702,NY,36,NEW YORK,New York
-389,2021,3,New York,1147,NY,36,NEW YORK,New York
-390,2020,4,New York,7257,NY,36,NEW YORK,New York
-391,2021,4,New York,889,NY,36,NEW YORK,New York
-392,2020,5,New York,2708,NY,36,NEW YORK,New York
-393,2021,5,New York,519,NY,36,NEW YORK,New York
-394,2020,6,New York,627,NY,36,NEW YORK,New York
-395,2021,6,New York,234,NY,36,NEW YORK,New York
-396,2020,1,North Carolina,0,NC,37,NORTH CAROLINA,North Carolina
-397,2021,1,North Carolina,3593,NC,37,NORTH CAROLINA,North Carolina
-398,2020,2,North Carolina,0,NC,37,NORTH CAROLINA,North Carolina
-399,2021,2,North Carolina,421,NC,37,NORTH CAROLINA,North Carolina
-400,2020,3,North Carolina,24,NC,37,NORTH CAROLINA,North Carolina
-401,2021,3,North Carolina,386,NC,37,NORTH CAROLINA,North Carolina
-402,2020,4,North Carolina,449,NC,37,NORTH CAROLINA,North Carolina
-403,2021,4,North Carolina,378,NC,37,NORTH CAROLINA,North Carolina
-404,2020,5,North Carolina,540,NC,37,NORTH CAROLINA,North Carolina
-405,2021,5,North Carolina,343,NC,37,NORTH CAROLINA,North Carolina
-406,2020,6,North Carolina,470,NC,37,NORTH CAROLINA,North Carolina
-407,2021,6,North Carolina,132,NC,37,NORTH CAROLINA,North Carolina
-408,2020,1,North Dakota,0,ND,38,NORTH DAKOTA,North Dakota
-409,2021,1,North Dakota,97,ND,38,NORTH DAKOTA,North Dakota
-410,2020,2,North Dakota,0,ND,38,NORTH DAKOTA,North Dakota
-411,2021,2,North Dakota,32,ND,38,NORTH DAKOTA,North Dakota
-412,2020,3,North Dakota,0,ND,38,NORTH DAKOTA,North Dakota
-413,2021,3,North Dakota,26,ND,38,NORTH DAKOTA,North Dakota
-414,2020,4,North Dakota,26,ND,38,NORTH DAKOTA,North Dakota
-415,2021,4,North Dakota,39,ND,38,NORTH DAKOTA,North Dakota
-416,2020,5,North Dakota,53,ND,38,NORTH DAKOTA,North Dakota
-417,2021,5,North Dakota,32,ND,38,NORTH DAKOTA,North Dakota
-418,2020,6,North Dakota,20,ND,38,NORTH DAKOTA,North Dakota
-419,2021,6,North Dakota,17,ND,38,NORTH DAKOTA,North Dakota
-420,2020,1,Ohio,0,OH,39,OHIO,Ohio
-421,2021,1,Ohio,4164,OH,39,OHIO,Ohio
-422,2020,2,Ohio,0,OH,39,OHIO,Ohio
-423,2021,2,Ohio,1620,OH,39,OHIO,Ohio
-424,2020,3,Ohio,98,OH,39,OHIO,Ohio
-425,2021,3,Ohio,765,OH,39,OHIO,Ohio
-426,2020,4,Ohio,1062,OH,39,OHIO,Ohio
-427,2021,4,Ohio,649,OH,39,OHIO,Ohio
-428,2020,5,Ohio,1158,OH,39,OHIO,Ohio
-429,2021,5,Ohio,528,OH,39,OHIO,Ohio
-430,2020,6,Ohio,559,OH,39,OHIO,Ohio
-431,2021,6,Ohio,260,OH,39,OHIO,Ohio
-432,2020,1,Oklahoma,0,OK,40,OKLAHOMA,Oklahoma
-433,2021,1,Oklahoma,1951,OK,40,OKLAHOMA,Oklahoma
-434,2020,2,Oklahoma,0,OK,40,OKLAHOMA,Oklahoma
-435,2021,2,Oklahoma,794,OK,40,OKLAHOMA,Oklahoma
-436,2020,3,Oklahoma,39,OK,40,OKLAHOMA,Oklahoma
-437,2021,3,Oklahoma,304,OK,40,OKLAHOMA,Oklahoma
-438,2020,4,Oklahoma,208,OK,40,OKLAHOMA,Oklahoma
-439,2021,4,Oklahoma,163,OK,40,OKLAHOMA,Oklahoma
-440,2020,5,Oklahoma,114,OK,40,OKLAHOMA,Oklahoma
-441,2021,5,Oklahoma,115,OK,40,OKLAHOMA,Oklahoma
-442,2020,6,Oklahoma,71,OK,40,OKLAHOMA,Oklahoma
-443,2021,6,Oklahoma,81,OK,40,OKLAHOMA,Oklahoma
-444,2020,1,Oregon,0,OR,41,OREGON,Oregon
-445,2021,1,Oregon,443,OR,41,OREGON,Oregon
-446,2020,2,Oregon,0,OR,41,OREGON,Oregon
-447,2021,2,Oregon,171,OR,41,OREGON,Oregon
-448,2020,3,Oregon,27,OR,41,OREGON,Oregon
-449,2021,3,Oregon,116,OR,41,OREGON,Oregon
-450,2020,4,Oregon,105,OR,41,OREGON,Oregon
-451,2021,4,Oregon,118,OR,41,OREGON,Oregon
-452,2020,5,Oregon,59,OR,41,OREGON,Oregon
-453,2021,5,Oregon,205,OR,41,OREGON,Oregon
-454,2020,6,Oregon,60,OR,41,OREGON,Oregon
-455,2021,6,Oregon,99,OR,41,OREGON,Oregon
-456,2020,1,Pennsylvania,0,PA,42,PENNSYLVANIA,Pennsylvania
-457,2021,1,Pennsylvania,4793,PA,42,PENNSYLVANIA,Pennsylvania
-458,2020,2,Pennsylvania,0,PA,42,PENNSYLVANIA,Pennsylvania
-459,2021,2,Pennsylvania,1916,PA,42,PENNSYLVANIA,Pennsylvania
-460,2020,3,Pennsylvania,104,PA,42,PENNSYLVANIA,Pennsylvania
-461,2021,3,Pennsylvania,990,PA,42,PENNSYLVANIA,Pennsylvania
-462,2020,4,Pennsylvania,3502,PA,42,PENNSYLVANIA,Pennsylvania
-463,2021,4,Pennsylvania,1238,PA,42,PENNSYLVANIA,Pennsylvania
-464,2020,5,Pennsylvania,2711,PA,42,PENNSYLVANIA,Pennsylvania
-465,2021,5,Pennsylvania,876,PA,42,PENNSYLVANIA,Pennsylvania
-466,2020,6,Pennsylvania,830,PA,42,PENNSYLVANIA,Pennsylvania
-467,2021,6,Pennsylvania,323,PA,42,PENNSYLVANIA,Pennsylvania
-468,2020,1,Rhode Island,0,RI,44,RHODE ISLAND,Rhode Island
-469,2021,1,Rhode Island,418,RI,44,RHODE ISLAND,Rhode Island
-470,2020,2,Rhode Island,0,RI,44,RHODE ISLAND,Rhode Island
-471,2021,2,Rhode Island,188,RI,44,RHODE ISLAND,Rhode Island
-472,2020,3,Rhode Island,0,RI,44,RHODE ISLAND,Rhode Island
-473,2021,3,Rhode Island,83,RI,44,RHODE ISLAND,Rhode Island
-474,2020,4,Rhode Island,353,RI,44,RHODE ISLAND,Rhode Island
-475,2021,4,Rhode Island,52,RI,44,RHODE ISLAND,Rhode Island
-476,2020,5,Rhode Island,469,RI,44,RHODE ISLAND,Rhode Island
-477,2021,5,Rhode Island,37,RI,44,RHODE ISLAND,Rhode Island
-478,2020,6,Rhode Island,148,RI,44,RHODE ISLAND,Rhode Island
-479,2021,6,Rhode Island,15,RI,44,RHODE ISLAND,Rhode Island
-480,2020,1,South Carolina,0,SC,45,SOUTH CAROLINA,South Carolina
-481,2021,1,South Carolina,1530,SC,45,SOUTH CAROLINA,South Carolina
-482,2020,2,South Carolina,0,SC,45,SOUTH CAROLINA,South Carolina
-483,2021,2,South Carolina,1057,SC,45,SOUTH CAROLINA,South Carolina
-484,2020,3,South Carolina,34,SC,45,SOUTH CAROLINA,South Carolina
-485,2021,3,South Carolina,479,SC,45,SOUTH CAROLINA,South Carolina
-486,2020,4,South Carolina,237,SC,45,SOUTH CAROLINA,South Carolina
-487,2021,4,South Carolina,301,SC,45,SOUTH CAROLINA,South Carolina
-488,2020,5,South Carolina,291,SC,45,SOUTH CAROLINA,South Carolina
-489,2021,5,South Carolina,185,SC,45,SOUTH CAROLINA,South Carolina
-490,2020,6,South Carolina,293,SC,45,SOUTH CAROLINA,South Carolina
-491,2021,6,South Carolina,48,SC,45,SOUTH CAROLINA,South Carolina
-492,2020,1,South Dakota,0,SD,46,SOUTH DAKOTA,South Dakota
-493,2021,1,South Dakota,187,SD,46,SOUTH DAKOTA,South Dakota
-494,2020,2,South Dakota,0,SD,46,SOUTH DAKOTA,South Dakota
-495,2021,2,South Dakota,70,SD,46,SOUTH DAKOTA,South Dakota
-496,2020,3,South Dakota,0,SD,46,SOUTH DAKOTA,South Dakota
-497,2021,3,South Dakota,39,SD,46,SOUTH DAKOTA,South Dakota
-498,2020,4,South Dakota,21,SD,46,SOUTH DAKOTA,South Dakota
-499,2021,4,South Dakota,41,SD,46,SOUTH DAKOTA,South Dakota
-500,2020,5,South Dakota,44,SD,46,SOUTH DAKOTA,South Dakota
-501,2021,5,South Dakota,31,SD,46,SOUTH DAKOTA,South Dakota
-502,2020,6,South Dakota,40,SD,46,SOUTH DAKOTA,South Dakota
-503,2021,6,South Dakota,11,SD,46,SOUTH DAKOTA,South Dakota
-504,2020,1,Tennessee,0,TN,47,TENNESSEE,Tennessee
-505,2021,1,Tennessee,2810,TN,47,TENNESSEE,Tennessee
-506,2020,2,Tennessee,0,TN,47,TENNESSEE,Tennessee
-507,2021,2,Tennessee,980,TN,47,TENNESSEE,Tennessee
-508,2020,3,Tennessee,35,TN,47,TENNESSEE,Tennessee
-509,2021,3,Tennessee,558,TN,47,TENNESSEE,Tennessee
-510,2020,4,Tennessee,185,TN,47,TENNESSEE,Tennessee
-511,2021,4,Tennessee,490,TN,47,TENNESSEE,Tennessee
-512,2020,5,Tennessee,203,TN,47,TENNESSEE,Tennessee
-513,2021,5,Tennessee,427,TN,47,TENNESSEE,Tennessee
-514,2020,6,Tennessee,213,TN,47,TENNESSEE,Tennessee
-515,2021,6,Tennessee,176,TN,47,TENNESSEE,Tennessee
-516,2020,1,Texas,0,TX,48,TEXAS,Texas
-517,2021,1,Texas,10683,TX,48,TEXAS,Texas
-518,2020,2,Texas,0,TX,48,TEXAS,Texas
-519,2021,2,Texas,5798,TX,48,TEXAS,Texas
-520,2020,3,Texas,99,TX,48,TEXAS,Texas
-521,2021,3,Texas,2650,TX,48,TEXAS,Texas
-522,2020,4,Texas,932,TX,48,TEXAS,Texas
-523,2021,4,Texas,1432,TX,48,TEXAS,Texas
-524,2020,5,Texas,964,TX,48,TEXAS,Texas
-525,2021,5,Texas,1171,TX,48,TEXAS,Texas
-526,2020,6,Texas,1436,TX,48,TEXAS,Texas
-527,2021,6,Texas,633,TX,48,TEXAS,Texas
-528,2020,1,Utah,0,UT,49,UTAH,Utah
-529,2021,1,Utah,446,UT,49,UTAH,Utah
-530,2020,2,Utah,0,UT,49,UTAH,Utah
-531,2021,2,Utah,172,UT,49,UTAH,Utah
-532,2020,3,Utah,0,UT,49,UTAH,Utah
-533,2021,3,Utah,98,UT,49,UTAH,Utah
-534,2020,4,Utah,44,UT,49,UTAH,Utah
-535,2021,4,Utah,62,UT,49,UTAH,Utah
-536,2020,5,Utah,70,UT,49,UTAH,Utah
-537,2021,5,Utah,61,UT,49,UTAH,Utah
-538,2020,6,Utah,68,UT,49,UTAH,Utah
-539,2021,6,Utah,57,UT,49,UTAH,Utah
-540,2020,1,Vermont,0,VT,50,VERMONT,Vermont
-541,2021,1,Vermont,28,VT,50,VERMONT,Vermont
-542,2020,2,Vermont,0,VT,50,VERMONT,Vermont
-543,2021,2,Vermont,26,VT,50,VERMONT,Vermont
-544,2020,3,Vermont,16,VT,50,VERMONT,Vermont
-545,2021,3,Vermont,22,VT,50,VERMONT,Vermont
-546,2020,4,Vermont,38,VT,50,VERMONT,Vermont
-547,2021,4,Vermont,15,VT,50,VERMONT,Vermont
-548,2020,5,Vermont,0,VT,50,VERMONT,Vermont
-549,2021,5,Vermont,0,VT,50,VERMONT,Vermont
-550,2020,6,Vermont,0,VT,50,VERMONT,Vermont
-551,2021,6,Vermont,0,VT,50,VERMONT,Vermont
-552,2020,1,Virginia,0,VA,51,VIRGINIA,Virginia
-553,2021,1,Virginia,2294,VA,51,VIRGINIA,Virginia
-554,2020,2,Virginia,0,VA,51,VIRGINIA,Virginia
-555,2021,2,Virginia,1221,VA,51,VIRGINIA,Virginia
-556,2020,3,Virginia,62,VA,51,VIRGINIA,Virginia
-557,2021,3,Virginia,584,VA,51,VIRGINIA,Virginia
-558,2020,4,Virginia,752,VA,51,VIRGINIA,Virginia
-559,2021,4,Virginia,474,VA,51,VIRGINIA,Virginia
-560,2020,5,Virginia,853,VA,51,VIRGINIA,Virginia
-561,2021,5,Virginia,330,VA,51,VIRGINIA,Virginia
-562,2020,6,Virginia,395,VA,51,VIRGINIA,Virginia
-563,2021,6,Virginia,142,VA,51,VIRGINIA,Virginia
-564,2020,1,Washington,0,WA,53,WASHINGTON,Washington
-565,2021,1,Washington,784,WA,53,WASHINGTON,Washington
-566,2020,2,Washington,0,WA,53,WASHINGTON,Washington
-567,2021,2,Washington,400,WA,53,WASHINGTON,Washington
-568,2020,3,Washington,289,WA,53,WASHINGTON,Washington
-569,2021,3,Washington,192,WA,53,WASHINGTON,Washington
-570,2020,4,Washington,549,WA,53,WASHINGTON,Washington
-571,2021,4,Washington,227,WA,53,WASHINGTON,Washington
-572,2020,5,Washington,274,WA,53,WASHINGTON,Washington
-573,2021,5,Washington,275,WA,53,WASHINGTON,Washington
-574,2020,6,Washington,159,WA,53,WASHINGTON,Washington
-575,2021,6,Washington,169,WA,53,WASHINGTON,Washington
-576,2020,1,West Virginia,0,WV,54,WEST VIRGINIA,West Virginia
-577,2021,1,West Virginia,708,WV,54,WEST VIRGINIA,West Virginia
-578,2020,2,West Virginia,0,WV,54,WEST VIRGINIA,West Virginia
-579,2021,2,West Virginia,275,WV,54,WEST VIRGINIA,West Virginia
-580,2020,3,West Virginia,0,WV,54,WEST VIRGINIA,West Virginia
-581,2021,3,West Virginia,105,WV,54,WEST VIRGINIA,West Virginia
-582,2020,4,West Virginia,49,WV,54,WEST VIRGINIA,West Virginia
-583,2021,4,West Virginia,132,WV,54,WEST VIRGINIA,West Virginia
-584,2020,5,West Virginia,38,WV,54,WEST VIRGINIA,West Virginia
-585,2021,5,West Virginia,129,WV,54,WEST VIRGINIA,West Virginia
-586,2020,6,West Virginia,13,WV,54,WEST VIRGINIA,West Virginia
-587,2021,6,West Virginia,45,WV,54,WEST VIRGINIA,West Virginia
-588,2020,1,Wisconsin,0,WI,55,WISCONSIN,Wisconsin
-589,2021,1,Wisconsin,1040,WI,55,WISCONSIN,Wisconsin
-590,2020,2,Wisconsin,0,WI,55,WISCONSIN,Wisconsin
-591,2021,2,Wisconsin,410,WI,55,WISCONSIN,Wisconsin
-592,2020,3,Wisconsin,44,WI,55,WISCONSIN,Wisconsin
-593,2021,3,Wisconsin,187,WI,55,WISCONSIN,Wisconsin
-594,2020,4,Wisconsin,311,WI,55,WISCONSIN,Wisconsin
-595,2021,4,Wisconsin,189,WI,55,WISCONSIN,Wisconsin
-596,2020,5,Wisconsin,288,WI,55,WISCONSIN,Wisconsin
-597,2021,5,Wisconsin,165,WI,55,WISCONSIN,Wisconsin
-598,2020,6,Wisconsin,164,WI,55,WISCONSIN,Wisconsin
-599,2021,6,Wisconsin,69,WI,55,WISCONSIN,Wisconsin
-600,2020,1,Wyoming,0,WY,56,WYOMING,Wyoming
-601,2021,1,Wyoming,100,WY,56,WYOMING,Wyoming
-602,2020,2,Wyoming,0,WY,56,WYOMING,Wyoming
-603,2021,2,Wyoming,45,WY,56,WYOMING,Wyoming
-604,2020,3,Wyoming,0,WY,56,WYOMING,Wyoming
-605,2021,3,Wyoming,17,WY,56,WYOMING,Wyoming
-606,2020,4,Wyoming,0,WY,56,WYOMING,Wyoming
-607,2021,4,Wyoming,0,WY,56,WYOMING,Wyoming
-608,2020,5,Wyoming,0,WY,56,WYOMING,Wyoming
-609,2021,5,Wyoming,23,WY,56,WYOMING,Wyoming
-610,2020,6,Wyoming,0,WY,56,WYOMING,Wyoming
-611,2021,6,Wyoming,17,WY,56,WYOMING,Wyoming
-612,2020,1,Puerto Rico,0,PR,72,PUERTO RICO,Puerto Rico
-613,2021,1,Puerto Rico,247,PR,72,PUERTO RICO,Puerto Rico
-614,2020,2,Puerto Rico,0,PR,72,PUERTO RICO,Puerto Rico
-615,2021,2,Puerto Rico,132,PR,72,PUERTO RICO,Puerto Rico
-616,2020,3,Puerto Rico,21,PR,72,PUERTO RICO,Puerto Rico
-617,2021,3,Puerto Rico,69,PR,72,PUERTO RICO,Puerto Rico
-618,2020,4,Puerto Rico,78,PR,72,PUERTO RICO,Puerto Rico
-619,2021,4,Puerto Rico,196,PR,72,PUERTO RICO,Puerto Rico
-620,2020,5,Puerto Rico,35,PR,72,PUERTO RICO,Puerto Rico
-621,2021,5,Puerto Rico,182,PR,72,PUERTO RICO,Puerto Rico
-622,2020,6,Puerto Rico,16,PR,72,PUERTO RICO,Puerto Rico
-623,2021,6,Puerto Rico,25,PR,72,PUERTO RICO,Puerto Rico
+1,2021,1,United States,104661,US,111,UNITED STATES,United States
+2,2020,2,United States,19,US,111,UNITED STATES,United States
+3,2021,2,United States,47043,US,111,UNITED STATES,United States
+4,2020,3,United States,7157,US,111,UNITED STATES,United States
+5,2021,3,United States,22708,US,111,UNITED STATES,United States
+6,2020,4,United States,65467,US,111,UNITED STATES,United States
+7,2021,4,United States,18352,US,111,UNITED STATES,United States
+8,2020,5,United States,38296,US,111,UNITED STATES,United States
+9,2021,5,United States,14423,US,111,UNITED STATES,United States
+10,2020,6,United States,18003,US,111,UNITED STATES,United States
+11,2021,6,United States,7296,US,111,UNITED STATES,United States
+12,2020,7,United States,31109,US,111,UNITED STATES,United States
+13,2021,7,United States,2116,US,111,UNITED STATES,United States
+14,2020,8,United States,29880,US,111,UNITED STATES,United States
+15,2020,9,United States,19137,US,111,UNITED STATES,United States
+16,2020,10,United States,24904,US,111,UNITED STATES,United States
+17,2020,11,United States,53207,US,111,UNITED STATES,United States
+18,2020,12,United States,98050,US,111,UNITED STATES,United States
+19,2020,1,Alabama,0,AL,1,ALABAMA,Alabama
+20,2021,1,Alabama,2392,AL,1,ALABAMA,Alabama
+21,2020,2,Alabama,0,AL,1,ALABAMA,Alabama
+22,2021,2,Alabama,964,AL,1,ALABAMA,Alabama
+23,2020,3,Alabama,48,AL,1,ALABAMA,Alabama
+24,2021,3,Alabama,386,AL,1,ALABAMA,Alabama
+25,2020,4,Alabama,339,AL,1,ALABAMA,Alabama
+26,2021,4,Alabama,215,AL,1,ALABAMA,Alabama
+27,2020,5,Alabama,430,AL,1,ALABAMA,Alabama
+28,2021,5,Alabama,207,AL,1,ALABAMA,Alabama
+29,2020,6,Alabama,399,AL,1,ALABAMA,Alabama
+30,2021,6,Alabama,118,AL,1,ALABAMA,Alabama
+31,2020,7,Alabama,879,AL,1,ALABAMA,Alabama
+32,2021,7,Alabama,48,AL,1,ALABAMA,Alabama
+33,2020,8,Alabama,964,AL,1,ALABAMA,Alabama
+34,2020,9,Alabama,568,AL,1,ALABAMA,Alabama
+35,2020,10,Alabama,560,AL,1,ALABAMA,Alabama
+36,2020,11,Alabama,768,AL,1,ALABAMA,Alabama
+37,2020,12,Alabama,1749,AL,1,ALABAMA,Alabama
+38,2020,1,Alaska,0,AK,2,ALASKA,Alaska
+39,2021,1,Alaska,36,AK,2,ALASKA,Alaska
+40,2020,2,Alaska,0,AK,2,ALASKA,Alaska
+41,2021,2,Alaska,18,AK,2,ALASKA,Alaska
+42,2020,3,Alaska,0,AK,2,ALASKA,Alaska
+43,2021,3,Alaska,16,AK,2,ALASKA,Alaska
+44,2020,4,Alaska,0,AK,2,ALASKA,Alaska
+45,2021,4,Alaska,15,AK,2,ALASKA,Alaska
+46,2020,5,Alaska,0,AK,2,ALASKA,Alaska
+47,2021,5,Alaska,0,AK,2,ALASKA,Alaska
+48,2020,6,Alaska,0,AK,2,ALASKA,Alaska
+49,2021,6,Alaska,0,AK,2,ALASKA,Alaska
+50,2020,7,Alaska,12,AK,2,ALASKA,Alaska
+51,2021,7,Alaska,0,AK,2,ALASKA,Alaska
+52,2020,8,Alaska,19,AK,2,ALASKA,Alaska
+53,2020,9,Alaska,12,AK,2,ALASKA,Alaska
+54,2020,10,Alaska,33,AK,2,ALASKA,Alaska
+55,2020,11,Alaska,69,AK,2,ALASKA,Alaska
+56,2020,12,Alaska,97,AK,2,ALASKA,Alaska
+57,2020,1,Arizona,0,AZ,4,ARIZONA,Arizona
+58,2021,1,Arizona,4002,AZ,4,ARIZONA,Arizona
+59,2020,2,Arizona,0,AZ,4,ARIZONA,Arizona
+60,2021,2,Arizona,1622,AZ,4,ARIZONA,Arizona
+61,2020,3,Arizona,64,AZ,4,ARIZONA,Arizona
+62,2021,3,Arizona,511,AZ,4,ARIZONA,Arizona
+63,2020,4,Arizona,405,AZ,4,ARIZONA,Arizona
+64,2021,4,Arizona,233,AZ,4,ARIZONA,Arizona
+65,2020,5,Arizona,507,AZ,4,ARIZONA,Arizona
+66,2021,5,Arizona,236,AZ,4,ARIZONA,Arizona
+67,2020,6,Arizona,899,AZ,4,ARIZONA,Arizona
+68,2021,6,Arizona,164,AZ,4,ARIZONA,Arizona
+69,2020,7,Arizona,2101,AZ,4,ARIZONA,Arizona
+70,2021,7,Arizona,64,AZ,4,ARIZONA,Arizona
+71,2020,8,Arizona,942,AZ,4,ARIZONA,Arizona
+72,2020,9,Arizona,273,AZ,4,ARIZONA,Arizona
+73,2020,10,Arizona,259,AZ,4,ARIZONA,Arizona
+74,2020,11,Arizona,858,AZ,4,ARIZONA,Arizona
+75,2020,12,Arizona,3012,AZ,4,ARIZONA,Arizona
+76,2020,1,Arkansas,0,AR,5,ARKANSAS,Arkansas
+77,2021,1,Arkansas,1172,AR,5,ARKANSAS,Arkansas
+78,2020,2,Arkansas,0,AR,5,ARKANSAS,Arkansas
+79,2021,2,Arkansas,469,AR,5,ARKANSAS,Arkansas
+80,2020,3,Arkansas,10,AR,5,ARKANSAS,Arkansas
+81,2021,3,Arkansas,197,AR,5,ARKANSAS,Arkansas
+82,2020,4,Arkansas,61,AR,5,ARKANSAS,Arkansas
+83,2021,4,Arkansas,78,AR,5,ARKANSAS,Arkansas
+84,2020,5,Arkansas,78,AR,5,ARKANSAS,Arkansas
+85,2021,5,Arkansas,92,AR,5,ARKANSAS,Arkansas
+86,2020,6,Arkansas,169,AR,5,ARKANSAS,Arkansas
+87,2021,6,Arkansas,118,AR,5,ARKANSAS,Arkansas
+88,2020,7,Arkansas,274,AR,5,ARKANSAS,Arkansas
+89,2021,7,Arkansas,77,AR,5,ARKANSAS,Arkansas
+90,2020,8,Arkansas,411,AR,5,ARKANSAS,Arkansas
+91,2020,9,Arkansas,422,AR,5,ARKANSAS,Arkansas
+92,2020,10,Arkansas,626,AR,5,ARKANSAS,Arkansas
+93,2020,11,Arkansas,845,AR,5,ARKANSAS,Arkansas
+94,2020,12,Arkansas,1131,AR,5,ARKANSAS,Arkansas
+95,2020,1,California,0,CA,6,CALIFORNIA,California
+96,2021,1,California,19962,CA,6,CALIFORNIA,California
+97,2020,2,California,0,CA,6,CALIFORNIA,California
+98,2021,2,California,7665,CA,6,CALIFORNIA,California
+99,2020,3,California,278,CA,6,CALIFORNIA,California
+100,2021,3,California,2309,CA,6,CALIFORNIA,California
+101,2020,4,California,2018,CA,6,CALIFORNIA,California
+102,2021,4,California,972,CA,6,CALIFORNIA,California
+103,2020,5,California,2236,CA,6,CALIFORNIA,California
+104,2021,5,California,673,CA,6,CALIFORNIA,California
+105,2020,6,California,2057,CA,6,CALIFORNIA,California
+106,2021,6,California,416,CA,6,CALIFORNIA,California
+107,2020,7,California,3883,CA,6,CALIFORNIA,California
+108,2021,7,California,149,CA,6,CALIFORNIA,California
+109,2020,8,California,3754,CA,6,CALIFORNIA,California
+110,2020,9,California,2067,CA,6,CALIFORNIA,California
+111,2020,10,California,1457,CA,6,CALIFORNIA,California
+112,2020,11,California,2568,CA,6,CALIFORNIA,California
+113,2020,12,California,13137,CA,6,CALIFORNIA,California
+114,2020,1,Colorado,0,CO,8,COLORADO,Colorado
+115,2021,1,Colorado,755,CO,8,COLORADO,Colorado
+116,2020,2,Colorado,0,CO,8,COLORADO,Colorado
+117,2021,2,Colorado,340,CO,8,COLORADO,Colorado
+118,2020,3,Colorado,106,CO,8,COLORADO,Colorado
+119,2021,3,Colorado,214,CO,8,COLORADO,Colorado
+120,2020,4,Colorado,880,CO,8,COLORADO,Colorado
+121,2021,4,Colorado,204,CO,8,COLORADO,Colorado
+122,2020,5,Colorado,465,CO,8,COLORADO,Colorado
+123,2021,5,Colorado,316,CO,8,COLORADO,Colorado
+124,2020,6,Colorado,184,CO,8,COLORADO,Colorado
+125,2021,6,Colorado,203,CO,8,COLORADO,Colorado
+126,2020,7,Colorado,152,CO,8,COLORADO,Colorado
+127,2021,7,Colorado,54,CO,8,COLORADO,Colorado
+128,2020,8,Colorado,121,CO,8,COLORADO,Colorado
+129,2020,9,Colorado,116,CO,8,COLORADO,Colorado
+130,2020,10,Colorado,251,CO,8,COLORADO,Colorado
+131,2020,11,Colorado,1119,CO,8,COLORADO,Colorado
+132,2020,12,Colorado,1678,CO,8,COLORADO,Colorado
+133,2020,1,Connecticut,0,CT,9,CONNECTICUT,Connecticut
+134,2021,1,Connecticut,1019,CT,9,CONNECTICUT,Connecticut
+135,2020,2,Connecticut,0,CT,9,CONNECTICUT,Connecticut
+136,2021,2,Connecticut,474,CT,9,CONNECTICUT,Connecticut
+137,2020,3,Connecticut,126,CT,9,CONNECTICUT,Connecticut
+138,2021,3,Connecticut,240,CT,9,CONNECTICUT,Connecticut
+139,2020,4,Connecticut,2457,CT,9,CONNECTICUT,Connecticut
+140,2021,4,Connecticut,186,CT,9,CONNECTICUT,Connecticut
+141,2020,5,Connecticut,1532,CT,9,CONNECTICUT,Connecticut
+142,2021,5,Connecticut,112,CT,9,CONNECTICUT,Connecticut
+143,2020,6,Connecticut,285,CT,9,CONNECTICUT,Connecticut
+144,2021,6,Connecticut,19,CT,9,CONNECTICUT,Connecticut
+145,2020,7,Connecticut,78,CT,9,CONNECTICUT,Connecticut
+146,2021,7,Connecticut,0,CT,9,CONNECTICUT,Connecticut
+147,2020,8,Connecticut,30,CT,9,CONNECTICUT,Connecticut
+148,2020,9,Connecticut,43,CT,9,CONNECTICUT,Connecticut
+149,2020,10,Connecticut,145,CT,9,CONNECTICUT,Connecticut
+150,2020,11,Connecticut,498,CT,9,CONNECTICUT,Connecticut
+151,2020,12,Connecticut,1097,CT,9,CONNECTICUT,Connecticut
+152,2020,1,Delaware,0,DE,10,DELAWARE,Delaware
+153,2021,1,Delaware,324,DE,10,DELAWARE,Delaware
+154,2020,2,Delaware,0,DE,10,DELAWARE,Delaware
+155,2021,2,Delaware,146,DE,10,DELAWARE,Delaware
+156,2020,3,Delaware,0,DE,10,DELAWARE,Delaware
+157,2021,3,Delaware,59,DE,10,DELAWARE,Delaware
+158,2020,4,Delaware,190,DE,10,DELAWARE,Delaware
+159,2021,4,Delaware,67,DE,10,DELAWARE,Delaware
+160,2020,5,Delaware,276,DE,10,DELAWARE,Delaware
+161,2021,5,Delaware,38,DE,10,DELAWARE,Delaware
+162,2020,6,Delaware,73,DE,10,DELAWARE,Delaware
+163,2021,6,Delaware,11,DE,10,DELAWARE,Delaware
+164,2020,7,Delaware,35,DE,10,DELAWARE,Delaware
+165,2021,7,Delaware,0,DE,10,DELAWARE,Delaware
+166,2020,8,Delaware,20,DE,10,DELAWARE,Delaware
+167,2020,9,Delaware,31,DE,10,DELAWARE,Delaware
+168,2020,10,Delaware,83,DE,10,DELAWARE,Delaware
+169,2020,11,Delaware,95,DE,10,DELAWARE,Delaware
+170,2020,12,Delaware,285,DE,10,DELAWARE,Delaware
+171,2020,1,Florida,0,FL,12,FLORIDA,Florida
+172,2021,1,Florida,5002,FL,12,FLORIDA,Florida
+173,2020,2,Florida,0,FL,12,FLORIDA,Florida
+174,2021,2,Florida,3179,FL,12,FLORIDA,Florida
+175,2020,3,Florida,191,FL,12,FLORIDA,Florida
+176,2021,3,Florida,1820,FL,12,FLORIDA,Florida
+177,2020,4,Florida,1311,FL,12,FLORIDA,Florida
+178,2021,4,Florida,1492,FL,12,FLORIDA,Florida
+179,2020,5,Florida,1131,FL,12,FLORIDA,Florida
+180,2021,5,Florida,1306,FL,12,FLORIDA,Florida
+181,2020,6,Florida,1083,FL,12,FLORIDA,Florida
+182,2021,6,Florida,811,FL,12,FLORIDA,Florida
+183,2020,7,Florida,4980,FL,12,FLORIDA,Florida
+184,2021,7,Florida,360,FL,12,FLORIDA,Florida
+185,2020,8,Florida,4787,FL,12,FLORIDA,Florida
+186,2020,9,Florida,2023,FL,12,FLORIDA,Florida
+187,2020,10,Florida,1410,FL,12,FLORIDA,Florida
+188,2020,11,Florida,1767,FL,12,FLORIDA,Florida
+189,2020,12,Florida,3145,FL,12,FLORIDA,Florida
+190,2020,1,Georgia,0,GA,13,GEORGIA,Georgia
+191,2021,1,Georgia,3939,GA,13,GEORGIA,Georgia
+192,2020,2,Georgia,0,GA,13,GEORGIA,Georgia
+193,2021,2,Georgia,1854,GA,13,GEORGIA,Georgia
+194,2020,3,Georgia,221,GA,13,GEORGIA,Georgia
+195,2021,3,Georgia,757,GA,13,GEORGIA,Georgia
+196,2020,4,Georgia,1083,GA,13,GEORGIA,Georgia
+197,2021,4,Georgia,526,GA,13,GEORGIA,Georgia
+198,2020,5,Georgia,805,GA,13,GEORGIA,Georgia
+199,2021,5,Georgia,366,GA,13,GEORGIA,Georgia
+200,2020,6,Georgia,518,GA,13,GEORGIA,Georgia
+201,2021,6,Georgia,190,GA,13,GEORGIA,Georgia
+202,2020,7,Georgia,1337,GA,13,GEORGIA,Georgia
+203,2021,7,Georgia,45,GA,13,GEORGIA,Georgia
+204,2020,8,Georgia,1811,GA,13,GEORGIA,Georgia
+205,2020,9,Georgia,969,GA,13,GEORGIA,Georgia
+206,2020,10,Georgia,782,GA,13,GEORGIA,Georgia
+207,2020,11,Georgia,993,GA,13,GEORGIA,Georgia
+208,2020,12,Georgia,1914,GA,13,GEORGIA,Georgia
+209,2020,1,Hawaii,0,HI,15,HAWAII,Hawaii
+210,2021,1,Hawaii,47,HI,15,HAWAII,Hawaii
+211,2020,2,Hawaii,0,HI,15,HAWAII,Hawaii
+212,2021,2,Hawaii,27,HI,15,HAWAII,Hawaii
+213,2020,3,Hawaii,0,HI,15,HAWAII,Hawaii
+214,2021,3,Hawaii,18,HI,15,HAWAII,Hawaii
+215,2020,4,Hawaii,16,HI,15,HAWAII,Hawaii
+216,2021,4,Hawaii,14,HI,15,HAWAII,Hawaii
+217,2020,5,Hawaii,0,HI,15,HAWAII,Hawaii
+218,2021,5,Hawaii,20,HI,15,HAWAII,Hawaii
+219,2020,6,Hawaii,0,HI,15,HAWAII,Hawaii
+220,2021,6,Hawaii,10,HI,15,HAWAII,Hawaii
+221,2020,7,Hawaii,0,HI,15,HAWAII,Hawaii
+222,2021,7,Hawaii,0,HI,15,HAWAII,Hawaii
+223,2020,8,Hawaii,74,HI,15,HAWAII,Hawaii
+224,2020,9,Hawaii,128,HI,15,HAWAII,Hawaii
+225,2020,10,Hawaii,71,HI,15,HAWAII,Hawaii
+226,2020,11,Hawaii,31,HI,15,HAWAII,Hawaii
+227,2020,12,Hawaii,35,HI,15,HAWAII,Hawaii
+228,2020,1,Idaho,0,ID,16,IDAHO,Idaho
+229,2021,1,Idaho,263,ID,16,IDAHO,Idaho
+230,2020,2,Idaho,0,ID,16,IDAHO,Idaho
+231,2021,2,Idaho,111,ID,16,IDAHO,Idaho
+232,2020,3,Idaho,10,ID,16,IDAHO,Idaho
+233,2021,3,Idaho,77,ID,16,IDAHO,Idaho
+234,2020,4,Idaho,55,ID,16,IDAHO,Idaho
+235,2021,4,Idaho,84,ID,16,IDAHO,Idaho
+236,2020,5,Idaho,22,ID,16,IDAHO,Idaho
+237,2021,5,Idaho,68,ID,16,IDAHO,Idaho
+238,2020,6,Idaho,11,ID,16,IDAHO,Idaho
+239,2021,6,Idaho,52,ID,16,IDAHO,Idaho
+240,2020,7,Idaho,129,ID,16,IDAHO,Idaho
+241,2021,7,Idaho,14,ID,16,IDAHO,Idaho
+242,2020,8,Idaho,180,ID,16,IDAHO,Idaho
+243,2020,9,Idaho,113,ID,16,IDAHO,Idaho
+244,2020,10,Idaho,185,ID,16,IDAHO,Idaho
+245,2020,11,Idaho,387,ID,16,IDAHO,Idaho
+246,2020,12,Idaho,449,ID,16,IDAHO,Idaho
+247,2020,1,Illinois,0,IL,17,ILLINOIS,Illinois
+248,2021,1,Illinois,2398,IL,17,ILLINOIS,Illinois
+249,2020,2,Illinois,0,IL,17,ILLINOIS,Illinois
+250,2021,2,Illinois,1066,IL,17,ILLINOIS,Illinois
+251,2020,3,Illinois,193,IL,17,ILLINOIS,Illinois
+252,2021,3,Illinois,546,IL,17,ILLINOIS,Illinois
+253,2020,4,Illinois,2448,IL,17,ILLINOIS,Illinois
+254,2021,4,Illinois,726,IL,17,ILLINOIS,Illinois
+255,2020,5,Illinois,2822,IL,17,ILLINOIS,Illinois
+256,2021,5,Illinois,756,IL,17,ILLINOIS,Illinois
+257,2020,6,Illinois,1162,IL,17,ILLINOIS,Illinois
+258,2021,6,Illinois,331,IL,17,ILLINOIS,Illinois
+259,2020,7,Illinois,442,IL,17,ILLINOIS,Illinois
+260,2021,7,Illinois,73,IL,17,ILLINOIS,Illinois
+261,2020,8,Illinois,491,IL,17,ILLINOIS,Illinois
+262,2020,9,Illinois,552,IL,17,ILLINOIS,Illinois
+263,2020,10,Illinois,1084,IL,17,ILLINOIS,Illinois
+264,2020,11,Illinois,3344,IL,17,ILLINOIS,Illinois
+265,2020,12,Illinois,4182,IL,17,ILLINOIS,Illinois
+266,2020,1,Indiana,0,IN,18,INDIANA,Indiana
+267,2021,1,Indiana,2047,IN,18,INDIANA,Indiana
+268,2020,2,Indiana,0,IN,18,INDIANA,Indiana
+269,2021,2,Indiana,745,IN,18,INDIANA,Indiana
+270,2020,3,Indiana,126,IN,18,INDIANA,Indiana
+271,2021,3,Indiana,321,IN,18,INDIANA,Indiana
+272,2020,4,Indiana,1143,IN,18,INDIANA,Indiana
+273,2021,4,Indiana,289,IN,18,INDIANA,Indiana
+274,2020,5,Indiana,960,IN,18,INDIANA,Indiana
+275,2021,5,Indiana,352,IN,18,INDIANA,Indiana
+276,2020,6,Indiana,471,IN,18,INDIANA,Indiana
+277,2021,6,Indiana,198,IN,18,INDIANA,Indiana
+278,2020,7,Indiana,333,IN,18,INDIANA,Indiana
+279,2021,7,Indiana,29,IN,18,INDIANA,Indiana
+280,2020,8,Indiana,389,IN,18,INDIANA,Indiana
+281,2020,9,Indiana,418,IN,18,INDIANA,Indiana
+282,2020,10,Indiana,887,IN,18,INDIANA,Indiana
+283,2020,11,Indiana,2036,IN,18,INDIANA,Indiana
+284,2020,12,Indiana,3011,IN,18,INDIANA,Indiana
+285,2020,1,Iowa,0,IA,19,IOWA,Iowa
+286,2021,1,Iowa,706,IA,19,IOWA,Iowa
+287,2020,2,Iowa,0,IA,19,IOWA,Iowa
+288,2021,2,Iowa,272,IA,19,IOWA,Iowa
+289,2020,3,Iowa,10,IA,19,IOWA,Iowa
+290,2021,3,Iowa,156,IA,19,IOWA,Iowa
+291,2020,4,Iowa,171,IA,19,IOWA,Iowa
+292,2021,4,Iowa,115,IA,19,IOWA,Iowa
+293,2020,5,Iowa,416,IA,19,IOWA,Iowa
+294,2021,5,Iowa,100,IA,19,IOWA,Iowa
+295,2020,6,Iowa,159,IA,19,IOWA,Iowa
+296,2021,6,Iowa,46,IA,19,IOWA,Iowa
+297,2020,7,Iowa,174,IA,19,IOWA,Iowa
+298,2021,7,Iowa,19,IA,19,IOWA,Iowa
+299,2020,8,Iowa,273,IA,19,IOWA,Iowa
+300,2020,9,Iowa,250,IA,19,IOWA,Iowa
+301,2020,10,Iowa,523,IA,19,IOWA,Iowa
+302,2020,11,Iowa,1516,IA,19,IOWA,Iowa
+303,2020,12,Iowa,1277,IA,19,IOWA,Iowa
+304,2020,1,Kansas,0,KS,20,KANSAS,Kansas
+305,2021,1,Kansas,915,KS,20,KANSAS,Kansas
+306,2020,2,Kansas,0,KS,20,KANSAS,Kansas
+307,2021,2,Kansas,281,KS,20,KANSAS,Kansas
+308,2020,3,Kansas,14,KS,20,KANSAS,Kansas
+309,2021,3,Kansas,126,KS,20,KANSAS,Kansas
+310,2020,4,Kansas,127,KS,20,KANSAS,Kansas
+311,2021,4,Kansas,78,KS,20,KANSAS,Kansas
+312,2020,5,Kansas,101,KS,20,KANSAS,Kansas
+313,2021,5,Kansas,82,KS,20,KANSAS,Kansas
+314,2020,6,Kansas,66,KS,20,KANSAS,Kansas
+315,2021,6,Kansas,53,KS,20,KANSAS,Kansas
+316,2020,7,Kansas,115,KS,20,KANSAS,Kansas
+317,2021,7,Kansas,43,KS,20,KANSAS,Kansas
+318,2020,8,Kansas,184,KS,20,KANSAS,Kansas
+319,2020,9,Kansas,231,KS,20,KANSAS,Kansas
+320,2020,10,Kansas,420,KS,20,KANSAS,Kansas
+321,2020,11,Kansas,907,KS,20,KANSAS,Kansas
+322,2020,12,Kansas,1338,KS,20,KANSAS,Kansas
+323,2020,1,Kentucky,0,KY,21,KENTUCKY,Kentucky
+324,2021,1,Kentucky,1365,KY,21,KENTUCKY,Kentucky
+325,2020,2,Kentucky,0,KY,21,KENTUCKY,Kentucky
+326,2021,2,Kentucky,743,KY,21,KENTUCKY,Kentucky
+327,2020,3,Kentucky,28,KY,21,KENTUCKY,Kentucky
+328,2021,3,Kentucky,383,KY,21,KENTUCKY,Kentucky
+329,2020,4,Kentucky,246,KY,21,KENTUCKY,Kentucky
+330,2021,4,Kentucky,229,KY,21,KENTUCKY,Kentucky
+331,2020,5,Kentucky,225,KY,21,KENTUCKY,Kentucky
+332,2021,5,Kentucky,223,KY,21,KENTUCKY,Kentucky
+333,2020,6,Kentucky,155,KY,21,KENTUCKY,Kentucky
+334,2021,6,Kentucky,122,KY,21,KENTUCKY,Kentucky
+335,2020,7,Kentucky,182,KY,21,KENTUCKY,Kentucky
+336,2021,7,Kentucky,38,KY,21,KENTUCKY,Kentucky
+337,2020,8,Kentucky,304,KY,21,KENTUCKY,Kentucky
+338,2020,9,Kentucky,296,KY,21,KENTUCKY,Kentucky
+339,2020,10,Kentucky,503,KY,21,KENTUCKY,Kentucky
+340,2020,11,Kentucky,1052,KY,21,KENTUCKY,Kentucky
+341,2020,12,Kentucky,1627,KY,21,KENTUCKY,Kentucky
+342,2020,1,Louisiana,0,LA,22,LOUISIANA,Louisiana
+343,2021,1,Louisiana,1329,LA,22,LOUISIANA,Louisiana
+344,2020,2,Louisiana,0,LA,22,LOUISIANA,Louisiana
+345,2021,2,Louisiana,615,LA,22,LOUISIANA,Louisiana
+346,2020,3,Louisiana,398,LA,22,LOUISIANA,Louisiana
+347,2021,3,Louisiana,328,LA,22,LOUISIANA,Louisiana
+348,2020,4,Louisiana,1630,LA,22,LOUISIANA,Louisiana
+349,2021,4,Louisiana,176,LA,22,LOUISIANA,Louisiana
+350,2020,5,Louisiana,742,LA,22,LOUISIANA,Louisiana
+351,2021,5,Louisiana,163,LA,22,LOUISIANA,Louisiana
+352,2020,6,Louisiana,361,LA,22,LOUISIANA,Louisiana
+353,2021,6,Louisiana,105,LA,22,LOUISIANA,Louisiana
+354,2020,7,Louisiana,765,LA,22,LOUISIANA,Louisiana
+355,2021,7,Louisiana,23,LA,22,LOUISIANA,Louisiana
+356,2020,8,Louisiana,889,LA,22,LOUISIANA,Louisiana
+357,2020,9,Louisiana,419,LA,22,LOUISIANA,Louisiana
+358,2020,10,Louisiana,340,LA,22,LOUISIANA,Louisiana
+359,2020,11,Louisiana,489,LA,22,LOUISIANA,Louisiana
+360,2020,12,Louisiana,1031,LA,22,LOUISIANA,Louisiana
+361,2020,1,Maine,0,ME,23,MAINE,Maine
+362,2021,1,Maine,245,ME,23,MAINE,Maine
+363,2020,2,Maine,0,ME,23,MAINE,Maine
+364,2021,2,Maine,93,ME,23,MAINE,Maine
+365,2020,3,Maine,0,ME,23,MAINE,Maine
+366,2021,3,Maine,39,ME,23,MAINE,Maine
+367,2020,4,Maine,51,ME,23,MAINE,Maine
+368,2021,4,Maine,56,ME,23,MAINE,Maine
+369,2020,5,Maine,43,ME,23,MAINE,Maine
+370,2021,5,Maine,59,ME,23,MAINE,Maine
+371,2020,6,Maine,14,ME,23,MAINE,Maine
+372,2021,6,Maine,31,ME,23,MAINE,Maine
+373,2020,7,Maine,24,ME,23,MAINE,Maine
+374,2021,7,Maine,0,ME,23,MAINE,Maine
+375,2020,8,Maine,10,ME,23,MAINE,Maine
+376,2020,9,Maine,13,ME,23,MAINE,Maine
+377,2020,10,Maine,10,ME,23,MAINE,Maine
+378,2020,11,Maine,89,ME,23,MAINE,Maine
+379,2020,12,Maine,204,ME,23,MAINE,Maine
+380,2020,1,Maryland,0,MD,24,MARYLAND,Maryland
+381,2021,1,Maryland,1418,MD,24,MARYLAND,Maryland
+382,2020,2,Maryland,0,MD,24,MARYLAND,Maryland
+383,2021,2,Maryland,836,MD,24,MARYLAND,Maryland
+384,2020,3,Maryland,48,MD,24,MARYLAND,Maryland
+385,2021,3,Maryland,486,MD,24,MARYLAND,Maryland
+386,2020,4,Maryland,1280,MD,24,MARYLAND,Maryland
+387,2021,4,Maryland,532,MD,24,MARYLAND,Maryland
+388,2020,5,Maryland,1542,MD,24,MARYLAND,Maryland
+389,2021,5,Maryland,329,MD,24,MARYLAND,Maryland
+390,2020,6,Maryland,675,MD,24,MARYLAND,Maryland
+391,2021,6,Maryland,114,MD,24,MARYLAND,Maryland
+392,2020,7,Maryland,319,MD,24,MARYLAND,Maryland
+393,2021,7,Maryland,22,MD,24,MARYLAND,Maryland
+394,2020,8,Maryland,275,MD,24,MARYLAND,Maryland
+395,2020,9,Maryland,198,MD,24,MARYLAND,Maryland
+396,2020,10,Maryland,245,MD,24,MARYLAND,Maryland
+397,2020,11,Maryland,637,MD,24,MARYLAND,Maryland
+398,2020,12,Maryland,1512,MD,24,MARYLAND,Maryland
+399,2020,1,Massachusetts,0,MA,25,MASSACHUSETTS,Massachusetts
+400,2021,1,Massachusetts,1708,MA,25,MASSACHUSETTS,Massachusetts
+401,2020,2,Massachusetts,0,MA,25,MASSACHUSETTS,Massachusetts
+402,2021,2,Massachusetts,804,MA,25,MASSACHUSETTS,Massachusetts
+403,2020,3,Massachusetts,126,MA,25,MASSACHUSETTS,Massachusetts
+404,2021,3,Massachusetts,405,MA,25,MASSACHUSETTS,Massachusetts
+405,2020,4,Massachusetts,3933,MA,25,MASSACHUSETTS,Massachusetts
+406,2021,4,Massachusetts,264,MA,25,MASSACHUSETTS,Massachusetts
+407,2020,5,Massachusetts,3042,MA,25,MASSACHUSETTS,Massachusetts
+408,2021,5,Massachusetts,193,MA,25,MASSACHUSETTS,Massachusetts
+409,2020,6,Massachusetts,636,MA,25,MASSACHUSETTS,Massachusetts
+410,2021,6,Massachusetts,80,MA,25,MASSACHUSETTS,Massachusetts
+411,2020,7,Massachusetts,195,MA,25,MASSACHUSETTS,Massachusetts
+412,2021,7,Massachusetts,13,MA,25,MASSACHUSETTS,Massachusetts
+413,2020,8,Massachusetts,117,MA,25,MASSACHUSETTS,Massachusetts
+414,2020,9,Massachusetts,101,MA,25,MASSACHUSETTS,Massachusetts
+415,2020,10,Massachusetts,198,MA,25,MASSACHUSETTS,Massachusetts
+416,2020,11,Massachusetts,484,MA,25,MASSACHUSETTS,Massachusetts
+417,2020,12,Massachusetts,1353,MA,25,MASSACHUSETTS,Massachusetts
+418,2020,1,Michigan,0,MI,26,MICHIGAN,Michigan
+419,2021,1,Michigan,1728,MI,26,MICHIGAN,Michigan
+420,2020,2,Michigan,0,MI,26,MICHIGAN,Michigan
+421,2021,2,Michigan,675,MI,26,MICHIGAN,Michigan
+422,2020,3,Michigan,500,MI,26,MICHIGAN,Michigan
+423,2021,3,Michigan,574,MI,26,MICHIGAN,Michigan
+424,2020,4,Michigan,3629,MI,26,MICHIGAN,Michigan
+425,2021,4,Michigan,1713,MI,26,MICHIGAN,Michigan
+426,2020,5,Michigan,1295,MI,26,MICHIGAN,Michigan
+427,2021,5,Michigan,1292,MI,26,MICHIGAN,Michigan
+428,2020,6,Michigan,299,MI,26,MICHIGAN,Michigan
+429,2021,6,Michigan,345,MI,26,MICHIGAN,Michigan
+430,2020,7,Michigan,189,MI,26,MICHIGAN,Michigan
+431,2021,7,Michigan,46,MI,26,MICHIGAN,Michigan
+432,2020,8,Michigan,242,MI,26,MICHIGAN,Michigan
+433,2020,9,Michigan,227,MI,26,MICHIGAN,Michigan
+434,2020,10,Michigan,585,MI,26,MICHIGAN,Michigan
+435,2020,11,Michigan,2108,MI,26,MICHIGAN,Michigan
+436,2020,12,Michigan,3212,MI,26,MICHIGAN,Michigan
+437,2020,1,Minnesota,0,MN,27,MINNESOTA,Minnesota
+438,2021,1,Minnesota,807,MN,27,MINNESOTA,Minnesota
+439,2020,2,Minnesota,0,MN,27,MINNESOTA,Minnesota
+440,2021,2,Minnesota,300,MN,27,MINNESOTA,Minnesota
+441,2020,3,Minnesota,21,MN,27,MINNESOTA,Minnesota
+442,2021,3,Minnesota,206,MN,27,MINNESOTA,Minnesota
+443,2020,4,Minnesota,396,MN,27,MINNESOTA,Minnesota
+444,2021,4,Minnesota,281,MN,27,MINNESOTA,Minnesota
+445,2020,5,Minnesota,705,MN,27,MINNESOTA,Minnesota
+446,2021,5,Minnesota,231,MN,27,MINNESOTA,Minnesota
+447,2020,6,Minnesota,370,MN,27,MINNESOTA,Minnesota
+448,2021,6,Minnesota,106,MN,27,MINNESOTA,Minnesota
+449,2020,7,Minnesota,154,MN,27,MINNESOTA,Minnesota
+450,2021,7,Minnesota,22,MN,27,MINNESOTA,Minnesota
+451,2020,8,Minnesota,214,MN,27,MINNESOTA,Minnesota
+452,2020,9,Minnesota,241,MN,27,MINNESOTA,Minnesota
+453,2020,10,Minnesota,495,MN,27,MINNESOTA,Minnesota
+454,2020,11,Minnesota,1477,MN,27,MINNESOTA,Minnesota
+455,2020,12,Minnesota,1761,MN,27,MINNESOTA,Minnesota
+456,2020,1,Mississippi,0,MS,28,MISSISSIPPI,Mississippi
+457,2021,1,Mississippi,1323,MS,28,MISSISSIPPI,Mississippi
+458,2020,2,Mississippi,0,MS,28,MISSISSIPPI,Mississippi
+459,2021,2,Mississippi,577,MS,28,MISSISSIPPI,Mississippi
+460,2020,3,Mississippi,33,MS,28,MISSISSIPPI,Mississippi
+461,2021,3,Mississippi,272,MS,28,MISSISSIPPI,Mississippi
+462,2020,4,Mississippi,301,MS,28,MISSISSIPPI,Mississippi
+463,2021,4,Mississippi,165,MS,28,MISSISSIPPI,Mississippi
+464,2020,5,Mississippi,457,MS,28,MISSISSIPPI,Mississippi
+465,2021,5,Mississippi,159,MS,28,MISSISSIPPI,Mississippi
+466,2020,6,Mississippi,321,MS,28,MISSISSIPPI,Mississippi
+467,2021,6,Mississippi,94,MS,28,MISSISSIPPI,Mississippi
+468,2020,7,Mississippi,673,MS,28,MISSISSIPPI,Mississippi
+469,2021,7,Mississippi,44,MS,28,MISSISSIPPI,Mississippi
+470,2020,8,Mississippi,807,MS,28,MISSISSIPPI,Mississippi
+471,2020,9,Mississippi,455,MS,28,MISSISSIPPI,Mississippi
+472,2020,10,Mississippi,372,MS,28,MISSISSIPPI,Mississippi
+473,2020,11,Mississippi,586,MS,28,MISSISSIPPI,Mississippi
+474,2020,12,Mississippi,1115,MS,28,MISSISSIPPI,Mississippi
+475,2020,1,Missouri,0,MO,29,MISSOURI,Missouri
+476,2021,1,Missouri,1706,MO,29,MISSOURI,Missouri
+477,2020,2,Missouri,0,MO,29,MISSOURI,Missouri
+478,2021,2,Missouri,615,MO,29,MISSOURI,Missouri
+479,2020,3,Missouri,32,MO,29,MISSOURI,Missouri
+480,2021,3,Missouri,314,MO,29,MISSOURI,Missouri
+481,2020,4,Missouri,460,MO,29,MISSOURI,Missouri
+482,2021,4,Missouri,210,MO,29,MISSOURI,Missouri
+483,2020,5,Missouri,405,MO,29,MISSOURI,Missouri
+484,2021,5,Missouri,199,MO,29,MISSOURI,Missouri
+485,2020,6,Missouri,196,MO,29,MISSOURI,Missouri
+486,2021,6,Missouri,258,MO,29,MISSOURI,Missouri
+487,2020,7,Missouri,272,MO,29,MISSOURI,Missouri
+488,2021,7,Missouri,144,MO,29,MISSOURI,Missouri
+489,2020,8,Missouri,487,MO,29,MISSOURI,Missouri
+490,2020,9,Missouri,679,MO,29,MISSOURI,Missouri
+491,2020,10,Missouri,1123,MO,29,MISSOURI,Missouri
+492,2020,11,Missouri,2070,MO,29,MISSOURI,Missouri
+493,2020,12,Missouri,2334,MO,29,MISSOURI,Missouri
+494,2020,1,Montana,0,MT,30,MONTANA,Montana
+495,2021,1,Montana,178,MT,30,MONTANA,Montana
+496,2020,2,Montana,0,MT,30,MONTANA,Montana
+497,2021,2,Montana,74,MT,30,MONTANA,Montana
+498,2020,3,Montana,0,MT,30,MONTANA,Montana
+499,2021,3,Montana,58,MT,30,MONTANA,Montana
+500,2020,4,Montana,11,MT,30,MONTANA,Montana
+501,2021,4,Montana,31,MT,30,MONTANA,Montana
+502,2020,5,Montana,0,MT,30,MONTANA,Montana
+503,2021,5,Montana,30,MT,30,MONTANA,Montana
+504,2020,6,Montana,0,MT,30,MONTANA,Montana
+505,2021,6,Montana,36,MT,30,MONTANA,Montana
+506,2020,7,Montana,44,MT,30,MONTANA,Montana
+507,2021,7,Montana,0,MT,30,MONTANA,Montana
+508,2020,8,Montana,50,MT,30,MONTANA,Montana
+509,2020,9,Montana,93,MT,30,MONTANA,Montana
+510,2020,10,Montana,279,MT,30,MONTANA,Montana
+511,2020,11,Montana,405,MT,30,MONTANA,Montana
+512,2020,12,Montana,376,MT,30,MONTANA,Montana
+513,2020,1,Nebraska,0,NE,31,NEBRASKA,Nebraska
+514,2021,1,Nebraska,345,NE,31,NEBRASKA,Nebraska
+515,2020,2,Nebraska,0,NE,31,NEBRASKA,Nebraska
+516,2021,2,Nebraska,120,NE,31,NEBRASKA,Nebraska
+517,2020,3,Nebraska,0,NE,31,NEBRASKA,Nebraska
+518,2021,3,Nebraska,76,NE,31,NEBRASKA,Nebraska
+519,2020,4,Nebraska,76,NE,31,NEBRASKA,Nebraska
+520,2021,4,Nebraska,66,NE,31,NEBRASKA,Nebraska
+521,2020,5,Nebraska,111,NE,31,NEBRASKA,Nebraska
+522,2021,5,Nebraska,64,NE,31,NEBRASKA,Nebraska
+523,2020,6,Nebraska,92,NE,31,NEBRASKA,Nebraska
+524,2021,6,Nebraska,25,NE,31,NEBRASKA,Nebraska
+525,2020,7,Nebraska,48,NE,31,NEBRASKA,Nebraska
+526,2021,7,Nebraska,0,NE,31,NEBRASKA,Nebraska
+527,2020,8,Nebraska,101,NE,31,NEBRASKA,Nebraska
+528,2020,9,Nebraska,117,NE,31,NEBRASKA,Nebraska
+529,2020,10,Nebraska,281,NE,31,NEBRASKA,Nebraska
+530,2020,11,Nebraska,798,NE,31,NEBRASKA,Nebraska
+531,2020,12,Nebraska,623,NE,31,NEBRASKA,Nebraska
+532,2020,1,Nevada,0,NV,32,NEVADA,Nevada
+533,2021,1,Nevada,1175,NV,32,NEVADA,Nevada
+534,2020,2,Nevada,0,NV,32,NEVADA,Nevada
+535,2021,2,Nevada,555,NV,32,NEVADA,Nevada
+536,2020,3,Nevada,35,NV,32,NEVADA,Nevada
+537,2021,3,Nevada,218,NV,32,NEVADA,Nevada
+538,2020,4,Nevada,228,NV,32,NEVADA,Nevada
+539,2021,4,Nevada,156,NV,32,NEVADA,Nevada
+540,2020,5,Nevada,162,NV,32,NEVADA,Nevada
+541,2021,5,Nevada,113,NV,32,NEVADA,Nevada
+542,2020,6,Nevada,91,NV,32,NEVADA,Nevada
+543,2021,6,Nevada,115,NV,32,NEVADA,Nevada
+544,2020,7,Nevada,366,NV,32,NEVADA,Nevada
+545,2021,7,Nevada,62,NV,32,NEVADA,Nevada
+546,2020,8,Nevada,474,NV,32,NEVADA,Nevada
+547,2020,9,Nevada,228,NV,32,NEVADA,Nevada
+548,2020,10,Nevada,179,NV,32,NEVADA,Nevada
+549,2020,11,Nevada,523,NV,32,NEVADA,Nevada
+550,2020,12,Nevada,1241,NV,32,NEVADA,Nevada
+551,2020,1,New Hampshire,0,NH,33,NEW HAMPSHIRE,New Hampshire
+552,2021,1,New Hampshire,312,NH,33,NEW HAMPSHIRE,New Hampshire
+553,2020,2,New Hampshire,0,NH,33,NEW HAMPSHIRE,New Hampshire
+554,2021,2,New Hampshire,88,NH,33,NEW HAMPSHIRE,New Hampshire
+555,2020,3,New Hampshire,10,NH,33,NEW HAMPSHIRE,New Hampshire
+556,2021,3,New Hampshire,49,NH,33,NEW HAMPSHIRE,New Hampshire
+557,2020,4,New Hampshire,83,NH,33,NEW HAMPSHIRE,New Hampshire
+558,2021,4,New Hampshire,37,NH,33,NEW HAMPSHIRE,New Hampshire
+559,2020,5,New Hampshire,190,NH,33,NEW HAMPSHIRE,New Hampshire
+560,2021,5,New Hampshire,33,NH,33,NEW HAMPSHIRE,New Hampshire
+561,2020,6,New Hampshire,100,NH,33,NEW HAMPSHIRE,New Hampshire
+562,2021,6,New Hampshire,17,NH,33,NEW HAMPSHIRE,New Hampshire
+563,2020,7,New Hampshire,33,NH,33,NEW HAMPSHIRE,New Hampshire
+564,2021,7,New Hampshire,0,NH,33,NEW HAMPSHIRE,New Hampshire
+565,2020,8,New Hampshire,14,NH,33,NEW HAMPSHIRE,New Hampshire
+566,2020,9,New Hampshire,0,NH,33,NEW HAMPSHIRE,New Hampshire
+567,2020,10,New Hampshire,42,NH,33,NEW HAMPSHIRE,New Hampshire
+568,2020,11,New Hampshire,70,NH,33,NEW HAMPSHIRE,New Hampshire
+569,2020,12,New Hampshire,277,NH,33,NEW HAMPSHIRE,New Hampshire
+570,2020,1,New Jersey,0,NJ,34,NEW JERSEY,New Jersey
+571,2021,1,New Jersey,2449,NJ,34,NEW JERSEY,New Jersey
+572,2020,2,New Jersey,0,NJ,34,NEW JERSEY,New Jersey
+573,2021,2,New Jersey,1431,NJ,34,NEW JERSEY,New Jersey
+574,2020,3,New Jersey,697,NJ,34,NEW JERSEY,New Jersey
+575,2021,3,New Jersey,1021,NJ,34,NEW JERSEY,New Jersey
+576,2020,4,New Jersey,8995,NJ,34,NEW JERSEY,New Jersey
+577,2021,4,New Jersey,1017,NJ,34,NEW JERSEY,New Jersey
+578,2020,5,New Jersey,3357,NJ,34,NEW JERSEY,New Jersey
+579,2021,5,New Jersey,509,NJ,34,NEW JERSEY,New Jersey
+580,2020,6,New Jersey,839,NJ,34,NEW JERSEY,New Jersey
+581,2021,6,New Jersey,147,NJ,34,NEW JERSEY,New Jersey
+582,2020,7,New Jersey,330,NJ,34,NEW JERSEY,New Jersey
+583,2021,7,New Jersey,42,NJ,34,NEW JERSEY,New Jersey
+584,2020,8,New Jersey,168,NJ,34,NEW JERSEY,New Jersey
+585,2020,9,New Jersey,143,NJ,34,NEW JERSEY,New Jersey
+586,2020,10,New Jersey,280,NJ,34,NEW JERSEY,New Jersey
+587,2020,11,New Jersey,942,NJ,34,NEW JERSEY,New Jersey
+588,2020,12,New Jersey,2387,NJ,34,NEW JERSEY,New Jersey
+589,2020,1,New Mexico,0,NM,35,NEW MEXICO,New Mexico
+590,2021,1,New Mexico,697,NM,35,NEW MEXICO,New Mexico
+591,2020,2,New Mexico,0,NM,35,NEW MEXICO,New Mexico
+592,2021,2,New Mexico,294,NM,35,NEW MEXICO,New Mexico
+593,2020,3,New Mexico,0,NM,35,NEW MEXICO,New Mexico
+594,2021,3,New Mexico,145,NM,35,NEW MEXICO,New Mexico
+595,2020,4,New Mexico,164,NM,35,NEW MEXICO,New Mexico
+596,2021,4,New Mexico,70,NM,35,NEW MEXICO,New Mexico
+597,2020,5,New Mexico,264,NM,35,NEW MEXICO,New Mexico
+598,2021,5,New Mexico,71,NM,35,NEW MEXICO,New Mexico
+599,2020,6,New Mexico,131,NM,35,NEW MEXICO,New Mexico
+600,2021,6,New Mexico,54,NM,35,NEW MEXICO,New Mexico
+601,2020,7,New Mexico,168,NM,35,NEW MEXICO,New Mexico
+602,2021,7,New Mexico,16,NM,35,NEW MEXICO,New Mexico
+603,2020,8,New Mexico,96,NM,35,NEW MEXICO,New Mexico
+604,2020,9,New Mexico,53,NM,35,NEW MEXICO,New Mexico
+605,2020,10,New Mexico,168,NM,35,NEW MEXICO,New Mexico
+606,2020,11,New Mexico,796,NM,35,NEW MEXICO,New Mexico
+607,2020,12,New Mexico,1037,NM,35,NEW MEXICO,New Mexico
+608,2020,1,New York,0,NY,36,NEW YORK,New York
+609,2021,1,New York,4334,NY,36,NEW YORK,New York
+610,2020,2,New York,0,NY,36,NEW YORK,New York
+611,2021,2,New York,2208,NY,36,NEW YORK,New York
+612,2020,3,New York,702,NY,36,NEW YORK,New York
+613,2021,3,New York,1147,NY,36,NEW YORK,New York
+614,2020,4,New York,7257,NY,36,NEW YORK,New York
+615,2021,4,New York,890,NY,36,NEW YORK,New York
+616,2020,5,New York,2708,NY,36,NEW YORK,New York
+617,2021,5,New York,520,NY,36,NEW YORK,New York
+618,2020,6,New York,627,NY,36,NEW YORK,New York
+619,2021,6,New York,234,NY,36,NEW YORK,New York
+620,2020,7,New York,237,NY,36,NEW YORK,New York
+621,2021,7,New York,53,NY,36,NEW YORK,New York
+622,2020,8,New York,145,NY,36,NEW YORK,New York
+623,2020,9,New York,120,NY,36,NEW YORK,New York
+624,2020,10,New York,287,NY,36,NEW YORK,New York
+625,2020,11,New York,928,NY,36,NEW YORK,New York
+626,2020,12,New York,3108,NY,36,NEW YORK,New York
+627,2020,1,North Carolina,0,NC,37,NORTH CAROLINA,North Carolina
+628,2021,1,North Carolina,3601,NC,37,NORTH CAROLINA,North Carolina
+629,2020,2,North Carolina,0,NC,37,NORTH CAROLINA,North Carolina
+630,2021,2,North Carolina,568,NC,37,NORTH CAROLINA,North Carolina
+631,2020,3,North Carolina,24,NC,37,NORTH CAROLINA,North Carolina
+632,2021,3,North Carolina,398,NC,37,NORTH CAROLINA,North Carolina
+633,2020,4,North Carolina,449,NC,37,NORTH CAROLINA,North Carolina
+634,2021,4,North Carolina,379,NC,37,NORTH CAROLINA,North Carolina
+635,2020,5,North Carolina,540,NC,37,NORTH CAROLINA,North Carolina
+636,2021,5,North Carolina,352,NC,37,NORTH CAROLINA,North Carolina
+637,2020,6,North Carolina,470,NC,37,NORTH CAROLINA,North Carolina
+638,2021,6,North Carolina,168,NC,37,NORTH CAROLINA,North Carolina
+639,2020,7,North Carolina,700,NC,37,NORTH CAROLINA,North Carolina
+640,2021,7,North Carolina,0,NC,37,NORTH CAROLINA,North Carolina
+641,2020,8,North Carolina,911,NC,37,NORTH CAROLINA,North Carolina
+642,2020,9,North Carolina,912,NC,37,NORTH CAROLINA,North Carolina
+643,2020,10,North Carolina,985,NC,37,NORTH CAROLINA,North Carolina
+644,2020,11,North Carolina,1285,NC,37,NORTH CAROLINA,North Carolina
+645,2020,12,North Carolina,2506,NC,37,NORTH CAROLINA,North Carolina
+646,2020,1,North Dakota,0,ND,38,NORTH DAKOTA,North Dakota
+647,2021,1,North Dakota,97,ND,38,NORTH DAKOTA,North Dakota
+648,2020,2,North Dakota,0,ND,38,NORTH DAKOTA,North Dakota
+649,2021,2,North Dakota,32,ND,38,NORTH DAKOTA,North Dakota
+650,2020,3,North Dakota,0,ND,38,NORTH DAKOTA,North Dakota
+651,2021,3,North Dakota,26,ND,38,NORTH DAKOTA,North Dakota
+652,2020,4,North Dakota,26,ND,38,NORTH DAKOTA,North Dakota
+653,2021,4,North Dakota,39,ND,38,NORTH DAKOTA,North Dakota
+654,2020,5,North Dakota,53,ND,38,NORTH DAKOTA,North Dakota
+655,2021,5,North Dakota,33,ND,38,NORTH DAKOTA,North Dakota
+656,2020,6,North Dakota,20,ND,38,NORTH DAKOTA,North Dakota
+657,2021,6,North Dakota,17,ND,38,NORTH DAKOTA,North Dakota
+658,2020,7,North Dakota,30,ND,38,NORTH DAKOTA,North Dakota
+659,2021,7,North Dakota,0,ND,38,NORTH DAKOTA,North Dakota
+660,2020,8,North Dakota,42,ND,38,NORTH DAKOTA,North Dakota
+661,2020,9,North Dakota,117,ND,38,NORTH DAKOTA,North Dakota
+662,2020,10,North Dakota,314,ND,38,NORTH DAKOTA,North Dakota
+663,2020,11,North Dakota,558,ND,38,NORTH DAKOTA,North Dakota
+664,2020,12,North Dakota,349,ND,38,NORTH DAKOTA,North Dakota
+665,2020,1,Ohio,0,OH,39,OHIO,Ohio
+666,2021,1,Ohio,4165,OH,39,OHIO,Ohio
+667,2020,2,Ohio,0,OH,39,OHIO,Ohio
+668,2021,2,Ohio,1622,OH,39,OHIO,Ohio
+669,2020,3,Ohio,98,OH,39,OHIO,Ohio
+670,2021,3,Ohio,765,OH,39,OHIO,Ohio
+671,2020,4,Ohio,1062,OH,39,OHIO,Ohio
+672,2021,4,Ohio,651,OH,39,OHIO,Ohio
+673,2020,5,Ohio,1158,OH,39,OHIO,Ohio
+674,2021,5,Ohio,531,OH,39,OHIO,Ohio
+675,2020,6,Ohio,559,OH,39,OHIO,Ohio
+676,2021,6,Ohio,303,OH,39,OHIO,Ohio
+677,2020,7,Ohio,681,OH,39,OHIO,Ohio
+678,2021,7,Ohio,38,OH,39,OHIO,Ohio
+679,2020,8,Ohio,785,OH,39,OHIO,Ohio
+680,2020,9,Ohio,638,OH,39,OHIO,Ohio
+681,2020,10,Ohio,990,OH,39,OHIO,Ohio
+682,2020,11,Ohio,3074,OH,39,OHIO,Ohio
+683,2020,12,Ohio,6051,OH,39,OHIO,Ohio
+684,2020,1,Oklahoma,0,OK,40,OKLAHOMA,Oklahoma
+685,2021,1,Oklahoma,1951,OK,40,OKLAHOMA,Oklahoma
+686,2020,2,Oklahoma,0,OK,40,OKLAHOMA,Oklahoma
+687,2021,2,Oklahoma,795,OK,40,OKLAHOMA,Oklahoma
+688,2020,3,Oklahoma,39,OK,40,OKLAHOMA,Oklahoma
+689,2021,3,Oklahoma,304,OK,40,OKLAHOMA,Oklahoma
+690,2020,4,Oklahoma,208,OK,40,OKLAHOMA,Oklahoma
+691,2021,4,Oklahoma,164,OK,40,OKLAHOMA,Oklahoma
+692,2020,5,Oklahoma,113,OK,40,OKLAHOMA,Oklahoma
+693,2021,5,Oklahoma,115,OK,40,OKLAHOMA,Oklahoma
+694,2020,6,Oklahoma,71,OK,40,OKLAHOMA,Oklahoma
+695,2021,6,Oklahoma,95,OK,40,OKLAHOMA,Oklahoma
+696,2020,7,Oklahoma,231,OK,40,OKLAHOMA,Oklahoma
+697,2021,7,Oklahoma,20,OK,40,OKLAHOMA,Oklahoma
+698,2020,8,Oklahoma,351,OK,40,OKLAHOMA,Oklahoma
+699,2020,9,Oklahoma,356,OK,40,OKLAHOMA,Oklahoma
+700,2020,10,Oklahoma,605,OK,40,OKLAHOMA,Oklahoma
+701,2020,11,Oklahoma,1251,OK,40,OKLAHOMA,Oklahoma
+702,2020,12,Oklahoma,2019,OK,40,OKLAHOMA,Oklahoma
+703,2020,1,Oregon,0,OR,41,OREGON,Oregon
+704,2021,1,Oregon,444,OR,41,OREGON,Oregon
+705,2020,2,Oregon,0,OR,41,OREGON,Oregon
+706,2021,2,Oregon,171,OR,41,OREGON,Oregon
+707,2020,3,Oregon,28,OR,41,OREGON,Oregon
+708,2021,3,Oregon,116,OR,41,OREGON,Oregon
+709,2020,4,Oregon,105,OR,41,OREGON,Oregon
+710,2021,4,Oregon,118,OR,41,OREGON,Oregon
+711,2020,5,Oregon,59,OR,41,OREGON,Oregon
+712,2021,5,Oregon,207,OR,41,OREGON,Oregon
+713,2020,6,Oregon,60,OR,41,OREGON,Oregon
+714,2021,6,Oregon,104,OR,41,OREGON,Oregon
+715,2020,7,Oregon,102,OR,41,OREGON,Oregon
+716,2021,7,Oregon,16,OR,41,OREGON,Oregon
+717,2020,8,Oregon,129,OR,41,OREGON,Oregon
+718,2020,9,Oregon,85,OR,41,OREGON,Oregon
+719,2020,10,Oregon,132,OR,41,OREGON,Oregon
+720,2020,11,Oregon,329,OR,41,OREGON,Oregon
+721,2020,12,Oregon,578,OR,41,OREGON,Oregon
+722,2020,1,Pennsylvania,0,PA,42,PENNSYLVANIA,Pennsylvania
+723,2021,1,Pennsylvania,4794,PA,42,PENNSYLVANIA,Pennsylvania
+724,2020,2,Pennsylvania,0,PA,42,PENNSYLVANIA,Pennsylvania
+725,2021,2,Pennsylvania,1917,PA,42,PENNSYLVANIA,Pennsylvania
+726,2020,3,Pennsylvania,104,PA,42,PENNSYLVANIA,Pennsylvania
+727,2021,3,Pennsylvania,990,PA,42,PENNSYLVANIA,Pennsylvania
+728,2020,4,Pennsylvania,3502,PA,42,PENNSYLVANIA,Pennsylvania
+729,2021,4,Pennsylvania,1240,PA,42,PENNSYLVANIA,Pennsylvania
+730,2020,5,Pennsylvania,2710,PA,42,PENNSYLVANIA,Pennsylvania
+731,2021,5,Pennsylvania,878,PA,42,PENNSYLVANIA,Pennsylvania
+732,2020,6,Pennsylvania,830,PA,42,PENNSYLVANIA,Pennsylvania
+733,2021,6,Pennsylvania,327,PA,42,PENNSYLVANIA,Pennsylvania
+734,2020,7,Pennsylvania,499,PA,42,PENNSYLVANIA,Pennsylvania
+735,2021,7,Pennsylvania,68,PA,42,PENNSYLVANIA,Pennsylvania
+736,2020,8,Pennsylvania,506,PA,42,PENNSYLVANIA,Pennsylvania
+737,2020,9,Pennsylvania,418,PA,42,PENNSYLVANIA,Pennsylvania
+738,2020,10,Pennsylvania,726,PA,42,PENNSYLVANIA,Pennsylvania
+739,2020,11,Pennsylvania,2565,PA,42,PENNSYLVANIA,Pennsylvania
+740,2020,12,Pennsylvania,6546,PA,42,PENNSYLVANIA,Pennsylvania
+741,2020,1,Rhode Island,0,RI,44,RHODE ISLAND,Rhode Island
+742,2021,1,Rhode Island,418,RI,44,RHODE ISLAND,Rhode Island
+743,2020,2,Rhode Island,0,RI,44,RHODE ISLAND,Rhode Island
+744,2021,2,Rhode Island,188,RI,44,RHODE ISLAND,Rhode Island
+745,2020,3,Rhode Island,0,RI,44,RHODE ISLAND,Rhode Island
+746,2021,3,Rhode Island,83,RI,44,RHODE ISLAND,Rhode Island
+747,2020,4,Rhode Island,353,RI,44,RHODE ISLAND,Rhode Island
+748,2021,4,Rhode Island,52,RI,44,RHODE ISLAND,Rhode Island
+749,2020,5,Rhode Island,469,RI,44,RHODE ISLAND,Rhode Island
+750,2021,5,Rhode Island,37,RI,44,RHODE ISLAND,Rhode Island
+751,2020,6,Rhode Island,148,RI,44,RHODE ISLAND,Rhode Island
+752,2021,6,Rhode Island,17,RI,44,RHODE ISLAND,Rhode Island
+753,2020,7,Rhode Island,40,RI,44,RHODE ISLAND,Rhode Island
+754,2021,7,Rhode Island,0,RI,44,RHODE ISLAND,Rhode Island
+755,2020,8,Rhode Island,45,RI,44,RHODE ISLAND,Rhode Island
+756,2020,9,Rhode Island,45,RI,44,RHODE ISLAND,Rhode Island
+757,2020,10,Rhode Island,97,RI,44,RHODE ISLAND,Rhode Island
+758,2020,11,Rhode Island,201,RI,44,RHODE ISLAND,Rhode Island
+759,2020,12,Rhode Island,511,RI,44,RHODE ISLAND,Rhode Island
+760,2020,1,South Carolina,0,SC,45,SOUTH CAROLINA,South Carolina
+761,2021,1,South Carolina,1897,SC,45,SOUTH CAROLINA,South Carolina
+762,2020,2,South Carolina,0,SC,45,SOUTH CAROLINA,South Carolina
+763,2021,2,South Carolina,1058,SC,45,SOUTH CAROLINA,South Carolina
+764,2020,3,South Carolina,34,SC,45,SOUTH CAROLINA,South Carolina
+765,2021,3,South Carolina,479,SC,45,SOUTH CAROLINA,South Carolina
+766,2020,4,South Carolina,237,SC,45,SOUTH CAROLINA,South Carolina
+767,2021,4,South Carolina,317,SC,45,SOUTH CAROLINA,South Carolina
+768,2020,5,South Carolina,291,SC,45,SOUTH CAROLINA,South Carolina
+769,2021,5,South Carolina,203,SC,45,SOUTH CAROLINA,South Carolina
+770,2020,6,South Carolina,293,SC,45,SOUTH CAROLINA,South Carolina
+771,2021,6,South Carolina,82,SC,45,SOUTH CAROLINA,South Carolina
+772,2020,7,South Carolina,1032,SC,45,SOUTH CAROLINA,South Carolina
+773,2021,7,South Carolina,16,SC,45,SOUTH CAROLINA,South Carolina
+774,2020,8,South Carolina,1006,SC,45,SOUTH CAROLINA,South Carolina
+775,2020,9,South Carolina,600,SC,45,SOUTH CAROLINA,South Carolina
+776,2020,10,South Carolina,494,SC,45,SOUTH CAROLINA,South Carolina
+777,2020,11,South Carolina,534,SC,45,SOUTH CAROLINA,South Carolina
+778,2020,12,South Carolina,1176,SC,45,SOUTH CAROLINA,South Carolina
+779,2020,1,South Dakota,0,SD,46,SOUTH DAKOTA,South Dakota
+780,2021,1,South Dakota,187,SD,46,SOUTH DAKOTA,South Dakota
+781,2020,2,South Dakota,0,SD,46,SOUTH DAKOTA,South Dakota
+782,2021,2,South Dakota,70,SD,46,SOUTH DAKOTA,South Dakota
+783,2020,3,South Dakota,0,SD,46,SOUTH DAKOTA,South Dakota
+784,2021,3,South Dakota,39,SD,46,SOUTH DAKOTA,South Dakota
+785,2020,4,South Dakota,21,SD,46,SOUTH DAKOTA,South Dakota
+786,2021,4,South Dakota,41,SD,46,SOUTH DAKOTA,South Dakota
+787,2020,5,South Dakota,44,SD,46,SOUTH DAKOTA,South Dakota
+788,2021,5,South Dakota,31,SD,46,SOUTH DAKOTA,South Dakota
+789,2020,6,South Dakota,40,SD,46,SOUTH DAKOTA,South Dakota
+790,2021,6,South Dakota,13,SD,46,SOUTH DAKOTA,South Dakota
+791,2020,7,South Dakota,50,SD,46,SOUTH DAKOTA,South Dakota
+792,2021,7,South Dakota,0,SD,46,SOUTH DAKOTA,South Dakota
+793,2020,8,South Dakota,49,SD,46,SOUTH DAKOTA,South Dakota
+794,2020,9,South Dakota,116,SD,46,SOUTH DAKOTA,South Dakota
+795,2020,10,South Dakota,265,SD,46,SOUTH DAKOTA,South Dakota
+796,2020,11,South Dakota,701,SD,46,SOUTH DAKOTA,South Dakota
+797,2020,12,South Dakota,427,SD,46,SOUTH DAKOTA,South Dakota
+798,2020,1,Tennessee,0,TN,47,TENNESSEE,Tennessee
+799,2021,1,Tennessee,2811,TN,47,TENNESSEE,Tennessee
+800,2020,2,Tennessee,0,TN,47,TENNESSEE,Tennessee
+801,2021,2,Tennessee,980,TN,47,TENNESSEE,Tennessee
+802,2020,3,Tennessee,35,TN,47,TENNESSEE,Tennessee
+803,2021,3,Tennessee,558,TN,47,TENNESSEE,Tennessee
+804,2020,4,Tennessee,185,TN,47,TENNESSEE,Tennessee
+805,2021,4,Tennessee,491,TN,47,TENNESSEE,Tennessee
+806,2020,5,Tennessee,203,TN,47,TENNESSEE,Tennessee
+807,2021,5,Tennessee,431,TN,47,TENNESSEE,Tennessee
+808,2020,6,Tennessee,213,TN,47,TENNESSEE,Tennessee
+809,2021,6,Tennessee,183,TN,47,TENNESSEE,Tennessee
+810,2020,7,Tennessee,586,TN,47,TENNESSEE,Tennessee
+811,2021,7,Tennessee,53,TN,47,TENNESSEE,Tennessee
+812,2020,8,Tennessee,746,TN,47,TENNESSEE,Tennessee
+813,2020,9,Tennessee,700,TN,47,TENNESSEE,Tennessee
+814,2020,10,Tennessee,962,TN,47,TENNESSEE,Tennessee
+815,2020,11,Tennessee,1599,TN,47,TENNESSEE,Tennessee
+816,2020,12,Tennessee,2697,TN,47,TENNESSEE,Tennessee
+817,2020,1,Texas,0,TX,48,TEXAS,Texas
+818,2021,1,Texas,10686,TX,48,TEXAS,Texas
+819,2020,2,Texas,0,TX,48,TEXAS,Texas
+820,2021,2,Texas,5798,TX,48,TEXAS,Texas
+821,2020,3,Texas,99,TX,48,TEXAS,Texas
+822,2021,3,Texas,2653,TX,48,TEXAS,Texas
+823,2020,4,Texas,933,TX,48,TEXAS,Texas
+824,2021,4,Texas,1435,TX,48,TEXAS,Texas
+825,2020,5,Texas,964,TX,48,TEXAS,Texas
+826,2021,5,Texas,1171,TX,48,TEXAS,Texas
+827,2020,6,Texas,1435,TX,48,TEXAS,Texas
+828,2021,6,Texas,668,TX,48,TEXAS,Texas
+829,2020,7,Texas,6968,TX,48,TEXAS,Texas
+830,2021,7,Texas,128,TX,48,TEXAS,Texas
+831,2020,8,Texas,5145,TX,48,TEXAS,Texas
+832,2020,9,Texas,2341,TX,48,TEXAS,Texas
+833,2020,10,Texas,2868,TX,48,TEXAS,Texas
+834,2020,11,Texas,5224,TX,48,TEXAS,Texas
+835,2020,12,Texas,7556,TX,48,TEXAS,Texas
+836,2020,1,Utah,0,UT,49,UTAH,Utah
+837,2021,1,Utah,446,UT,49,UTAH,Utah
+838,2020,2,Utah,0,UT,49,UTAH,Utah
+839,2021,2,Utah,172,UT,49,UTAH,Utah
+840,2020,3,Utah,0,UT,49,UTAH,Utah
+841,2021,3,Utah,98,UT,49,UTAH,Utah
+842,2020,4,Utah,44,UT,49,UTAH,Utah
+843,2021,4,Utah,62,UT,49,UTAH,Utah
+844,2020,5,Utah,70,UT,49,UTAH,Utah
+845,2021,5,Utah,61,UT,49,UTAH,Utah
+846,2020,6,Utah,68,UT,49,UTAH,Utah
+847,2021,6,Utah,59,UT,49,UTAH,Utah
+848,2020,7,Utah,146,UT,49,UTAH,Utah
+849,2021,7,Utah,42,UT,49,UTAH,Utah
+850,2020,8,Utah,95,UT,49,UTAH,Utah
+851,2020,9,Utah,77,UT,49,UTAH,Utah
+852,2020,10,Utah,190,UT,49,UTAH,Utah
+853,2020,11,Utah,429,UT,49,UTAH,Utah
+854,2020,12,Utah,531,UT,49,UTAH,Utah
+855,2020,1,Vermont,0,VT,50,VERMONT,Vermont
+856,2021,1,Vermont,28,VT,50,VERMONT,Vermont
+857,2020,2,Vermont,0,VT,50,VERMONT,Vermont
+858,2021,2,Vermont,26,VT,50,VERMONT,Vermont
+859,2020,3,Vermont,16,VT,50,VERMONT,Vermont
+860,2021,3,Vermont,22,VT,50,VERMONT,Vermont
+861,2020,4,Vermont,38,VT,50,VERMONT,Vermont
+862,2021,4,Vermont,15,VT,50,VERMONT,Vermont
+863,2020,5,Vermont,0,VT,50,VERMONT,Vermont
+864,2021,5,Vermont,0,VT,50,VERMONT,Vermont
+865,2020,6,Vermont,0,VT,50,VERMONT,Vermont
+866,2021,6,Vermont,0,VT,50,VERMONT,Vermont
+867,2020,7,Vermont,0,VT,50,VERMONT,Vermont
+868,2021,7,Vermont,0,VT,50,VERMONT,Vermont
+869,2020,8,Vermont,0,VT,50,VERMONT,Vermont
+870,2020,9,Vermont,0,VT,50,VERMONT,Vermont
+871,2020,10,Vermont,0,VT,50,VERMONT,Vermont
+872,2020,11,Vermont,16,VT,50,VERMONT,Vermont
+873,2020,12,Vermont,67,VT,50,VERMONT,Vermont
+874,2020,1,Virginia,0,VA,51,VIRGINIA,Virginia
+875,2021,1,Virginia,2294,VA,51,VIRGINIA,Virginia
+876,2020,2,Virginia,0,VA,51,VIRGINIA,Virginia
+877,2021,2,Virginia,1221,VA,51,VIRGINIA,Virginia
+878,2020,3,Virginia,62,VA,51,VIRGINIA,Virginia
+879,2021,3,Virginia,584,VA,51,VIRGINIA,Virginia
+880,2020,4,Virginia,753,VA,51,VIRGINIA,Virginia
+881,2021,4,Virginia,474,VA,51,VIRGINIA,Virginia
+882,2020,5,Virginia,853,VA,51,VIRGINIA,Virginia
+883,2021,5,Virginia,330,VA,51,VIRGINIA,Virginia
+884,2020,6,Virginia,395,VA,51,VIRGINIA,Virginia
+885,2021,6,Virginia,147,VA,51,VIRGINIA,Virginia
+886,2020,7,Virginia,370,VA,51,VIRGINIA,Virginia
+887,2021,7,Virginia,42,VA,51,VIRGINIA,Virginia
+888,2020,8,Virginia,475,VA,51,VIRGINIA,Virginia
+889,2020,9,Virginia,476,VA,51,VIRGINIA,Virginia
+890,2020,10,Virginia,483,VA,51,VIRGINIA,Virginia
+891,2020,11,Virginia,743,VA,51,VIRGINIA,Virginia
+892,2020,12,Virginia,1545,VA,51,VIRGINIA,Virginia
+893,2020,1,Washington,0,WA,53,WASHINGTON,Washington
+894,2021,1,Washington,785,WA,53,WASHINGTON,Washington
+895,2020,2,Washington,0,WA,53,WASHINGTON,Washington
+896,2021,2,Washington,400,WA,53,WASHINGTON,Washington
+897,2020,3,Washington,289,WA,53,WASHINGTON,Washington
+898,2021,3,Washington,196,WA,53,WASHINGTON,Washington
+899,2020,4,Washington,549,WA,53,WASHINGTON,Washington
+900,2021,4,Washington,228,WA,53,WASHINGTON,Washington
+901,2020,5,Washington,274,WA,53,WASHINGTON,Washington
+902,2021,5,Washington,277,WA,53,WASHINGTON,Washington
+903,2020,6,Washington,159,WA,53,WASHINGTON,Washington
+904,2021,6,Washington,191,WA,53,WASHINGTON,Washington
+905,2020,7,Washington,292,WA,53,WASHINGTON,Washington
+906,2021,7,Washington,55,WA,53,WASHINGTON,Washington
+907,2020,8,Washington,290,WA,53,WASHINGTON,Washington
+908,2020,9,Washington,178,WA,53,WASHINGTON,Washington
+909,2020,10,Washington,245,WA,53,WASHINGTON,Washington
+910,2020,11,Washington,483,WA,53,WASHINGTON,Washington
+911,2020,12,Washington,937,WA,53,WASHINGTON,Washington
+912,2020,1,West Virginia,0,WV,54,WEST VIRGINIA,West Virginia
+913,2021,1,West Virginia,708,WV,54,WEST VIRGINIA,West Virginia
+914,2020,2,West Virginia,0,WV,54,WEST VIRGINIA,West Virginia
+915,2021,2,West Virginia,275,WV,54,WEST VIRGINIA,West Virginia
+916,2020,3,West Virginia,0,WV,54,WEST VIRGINIA,West Virginia
+917,2021,3,West Virginia,106,WV,54,WEST VIRGINIA,West Virginia
+918,2020,4,West Virginia,49,WV,54,WEST VIRGINIA,West Virginia
+919,2021,4,West Virginia,134,WV,54,WEST VIRGINIA,West Virginia
+920,2020,5,West Virginia,38,WV,54,WEST VIRGINIA,West Virginia
+921,2021,5,West Virginia,131,WV,54,WEST VIRGINIA,West Virginia
+922,2020,6,West Virginia,13,WV,54,WEST VIRGINIA,West Virginia
+923,2021,6,West Virginia,48,WV,54,WEST VIRGINIA,West Virginia
+924,2020,7,West Virginia,34,WV,54,WEST VIRGINIA,West Virginia
+925,2021,7,West Virginia,0,WV,54,WEST VIRGINIA,West Virginia
+926,2020,8,West Virginia,109,WV,54,WEST VIRGINIA,West Virginia
+927,2020,9,West Virginia,114,WV,54,WEST VIRGINIA,West Virginia
+928,2020,10,West Virginia,136,WV,54,WEST VIRGINIA,West Virginia
+929,2020,11,West Virginia,309,WV,54,WEST VIRGINIA,West Virginia
+930,2020,12,West Virginia,755,WV,54,WEST VIRGINIA,West Virginia
+931,2020,1,Wisconsin,0,WI,55,WISCONSIN,Wisconsin
+932,2021,1,Wisconsin,1040,WI,55,WISCONSIN,Wisconsin
+933,2020,2,Wisconsin,0,WI,55,WISCONSIN,Wisconsin
+934,2021,2,Wisconsin,410,WI,55,WISCONSIN,Wisconsin
+935,2020,3,Wisconsin,44,WI,55,WISCONSIN,Wisconsin
+936,2021,3,Wisconsin,187,WI,55,WISCONSIN,Wisconsin
+937,2020,4,Wisconsin,311,WI,55,WISCONSIN,Wisconsin
+938,2021,4,Wisconsin,189,WI,55,WISCONSIN,Wisconsin
+939,2020,5,Wisconsin,288,WI,55,WISCONSIN,Wisconsin
+940,2021,5,Wisconsin,167,WI,55,WISCONSIN,Wisconsin
+941,2020,6,Wisconsin,164,WI,55,WISCONSIN,Wisconsin
+942,2021,6,Wisconsin,69,WI,55,WISCONSIN,Wisconsin
+943,2020,7,Wisconsin,166,WI,55,WISCONSIN,Wisconsin
+944,2021,7,Wisconsin,21,WI,55,WISCONSIN,Wisconsin
+945,2020,8,Wisconsin,200,WI,55,WISCONSIN,Wisconsin
+946,2020,9,Wisconsin,218,WI,55,WISCONSIN,Wisconsin
+947,2020,10,Wisconsin,992,WI,55,WISCONSIN,Wisconsin
+948,2020,11,Wisconsin,2131,WI,55,WISCONSIN,Wisconsin
+949,2020,12,Wisconsin,1771,WI,55,WISCONSIN,Wisconsin
+950,2020,1,Wyoming,0,WY,56,WYOMING,Wyoming
+951,2021,1,Wyoming,100,WY,56,WYOMING,Wyoming
+952,2020,2,Wyoming,0,WY,56,WYOMING,Wyoming
+953,2021,2,Wyoming,45,WY,56,WYOMING,Wyoming
+954,2020,3,Wyoming,0,WY,56,WYOMING,Wyoming
+955,2021,3,Wyoming,17,WY,56,WYOMING,Wyoming
+956,2020,4,Wyoming,0,WY,56,WYOMING,Wyoming
+957,2021,4,Wyoming,0,WY,56,WYOMING,Wyoming
+958,2020,5,Wyoming,0,WY,56,WYOMING,Wyoming
+959,2021,5,Wyoming,23,WY,56,WYOMING,Wyoming
+960,2020,6,Wyoming,0,WY,56,WYOMING,Wyoming
+961,2021,6,Wyoming,18,WY,56,WYOMING,Wyoming
+962,2020,7,Wyoming,0,WY,56,WYOMING,Wyoming
+963,2021,7,Wyoming,11,WY,56,WYOMING,Wyoming
+964,2020,8,Wyoming,0,WY,56,WYOMING,Wyoming
+965,2020,9,Wyoming,12,WY,56,WYOMING,Wyoming
+966,2020,10,Wyoming,71,WY,56,WYOMING,Wyoming
+967,2020,11,Wyoming,163,WY,56,WYOMING,Wyoming
+968,2020,12,Wyoming,183,WY,56,WYOMING,Wyoming
+969,2020,1,Puerto Rico,0,PR,72,PUERTO RICO,Puerto Rico
+970,2021,1,Puerto Rico,247,PR,72,PUERTO RICO,Puerto Rico
+971,2020,2,Puerto Rico,0,PR,72,PUERTO RICO,Puerto Rico
+972,2021,2,Puerto Rico,132,PR,72,PUERTO RICO,Puerto Rico
+973,2020,3,Puerto Rico,21,PR,72,PUERTO RICO,Puerto Rico
+974,2021,3,Puerto Rico,69,PR,72,PUERTO RICO,Puerto Rico
+975,2020,4,Puerto Rico,78,PR,72,PUERTO RICO,Puerto Rico
+976,2021,4,Puerto Rico,197,PR,72,PUERTO RICO,Puerto Rico
+977,2020,5,Puerto Rico,35,PR,72,PUERTO RICO,Puerto Rico
+978,2021,5,Puerto Rico,181,PR,72,PUERTO RICO,Puerto Rico
+979,2020,6,Puerto Rico,16,PR,72,PUERTO RICO,Puerto Rico
+980,2021,6,Puerto Rico,32,PR,72,PUERTO RICO,Puerto Rico
+981,2020,7,Puerto Rico,91,PR,72,PUERTO RICO,Puerto Rico
+982,2021,7,Puerto Rico,0,PR,72,PUERTO RICO,Puerto Rico
+983,2020,8,Puerto Rico,198,PR,72,PUERTO RICO,Puerto Rico
+984,2020,9,Puerto Rico,233,PR,72,PUERTO RICO,Puerto Rico
+985,2020,10,Puerto Rico,174,PR,72,PUERTO RICO,Puerto Rico
+986,2020,11,Puerto Rico,342,PR,72,PUERTO RICO,Puerto Rico
+987,2020,12,Puerto Rico,440,PR,72,PUERTO RICO,Puerto Rico
